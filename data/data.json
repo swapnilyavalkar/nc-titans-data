@@ -670,8 +670,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 342,
+        "innings": 174,
+        "runs": 1047,
+        "highest": 42,
+        "average": 7.93,
+        "strike_rate": 100.96,
+        "sixes": 42,
+        "fours": 97
+      },
+      "career_bowling": {
+        "matches": 342,
+        "wickets": 17,
+        "overs": 29.2,
+        "economy": 13.23
+      },
       "career_fielding": {}
     },
     {
@@ -1301,8 +1315,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 25,
+        "innings": 11,
+        "runs": 103,
+        "highest": 22,
+        "average": 14.71,
+        "strike_rate": 166.13,
+        "sixes": 5,
+        "fours": 10
+      },
+      "career_bowling": {
+        "matches": 25,
+        "wickets": 19,
+        "overs": 34.4,
+        "economy": 8.54
+      },
       "career_fielding": {}
     },
     {
@@ -1640,8 +1668,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 154,
+        "innings": 106,
+        "runs": 1010,
+        "highest": 75,
+        "average": 12.78,
+        "strike_rate": 134.49,
+        "sixes": 59,
+        "fours": 101
+      },
+      "career_bowling": {
+        "matches": 154,
+        "wickets": 23,
+        "overs": 58.1,
+        "economy": 11.05
+      },
       "career_fielding": {}
     },
     {
@@ -2111,8 +2153,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 51,
+        "innings": 20,
+        "runs": 224,
+        "highest": 50,
+        "average": 16.0,
+        "strike_rate": 139.13,
+        "sixes": 13,
+        "fours": 22
+      },
+      "career_bowling": {
+        "matches": 51,
+        "wickets": 0,
+        "overs": 1.0,
+        "economy": 9.0
+      },
       "career_fielding": {}
     },
     {
@@ -2281,8 +2337,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 27,
+        "innings": 11,
+        "runs": 51,
+        "highest": 11,
+        "average": 6.38,
+        "strike_rate": 87.93,
+        "sixes": 0,
+        "fours": 4
+      },
+      "career_bowling": {
+        "matches": 27,
+        "wickets": 1,
+        "overs": 7.0,
+        "economy": 6.29
+      },
       "career_fielding": {}
     },
     {
@@ -3007,8 +3077,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 339,
+        "innings": 252,
+        "runs": 2804,
+        "highest": 71,
+        "average": 13.88,
+        "strike_rate": 143.57,
+        "sixes": 200,
+        "fours": 212
+      },
+      "career_bowling": {
+        "matches": 339,
+        "wickets": 63,
+        "overs": 122.4,
+        "economy": 11.31
+      },
       "career_fielding": {}
     },
     {
@@ -3695,8 +3779,22 @@
           "economy": 13.5
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 339,
+        "innings": 273,
+        "runs": 4968,
+        "highest": 100,
+        "average": 22.08,
+        "strike_rate": 178.0,
+        "sixes": 322,
+        "fours": 480
+      },
+      "career_bowling": {
+        "matches": 339,
+        "wickets": 32,
+        "overs": 70.2,
+        "economy": 11.84
+      },
       "career_fielding": {}
     },
     {
@@ -4279,8 +4377,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 56,
+        "innings": 13,
+        "runs": 63,
+        "highest": 18,
+        "average": 7.88,
+        "strike_rate": 128.57,
+        "sixes": 2,
+        "fours": 9
+      },
+      "career_bowling": {
+        "matches": 56,
+        "wickets": 23,
+        "overs": 39.5,
+        "economy": 10.95
+      },
       "career_fielding": {}
     },
     {
@@ -4882,8 +4994,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 138,
+        "innings": 86,
+        "runs": 706,
+        "highest": 47,
+        "average": 12.17,
+        "strike_rate": 119.06,
+        "sixes": 37,
+        "fours": 57
+      },
+      "career_bowling": {
+        "matches": 138,
+        "wickets": 1,
+        "overs": 11.0,
+        "economy": 10.55
+      },
       "career_fielding": {}
     },
     {
@@ -5570,8 +5696,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 305,
+        "innings": 207,
+        "runs": 2967,
+        "highest": 81,
+        "average": 16.95,
+        "strike_rate": 181.14,
+        "sixes": 193,
+        "fours": 284
+      },
+      "career_bowling": {
+        "matches": 305,
+        "wickets": 280,
+        "overs": 569.4,
+        "economy": 6.86
+      },
       "career_fielding": {}
     },
     {
@@ -6258,8 +6398,22 @@
           "economy": 10.33
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 269,
+        "innings": 147,
+        "runs": 1312,
+        "highest": 57,
+        "average": 12.04,
+        "strike_rate": 121.71,
+        "sixes": 36,
+        "fours": 142
+      },
+      "career_bowling": {
+        "matches": 269,
+        "wickets": 89,
+        "overs": 175.1,
+        "economy": 10.46
+      },
       "career_fielding": {}
     },
     {
@@ -6456,8 +6610,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 75,
+        "innings": 51,
+        "runs": 493,
+        "highest": 48,
+        "average": 15.41,
+        "strike_rate": 146.73,
+        "sixes": 25,
+        "fours": 53
+      },
+      "career_bowling": {
+        "matches": 75,
+        "wickets": 2,
+        "overs": 4.0,
+        "economy": 11.25
+      },
       "career_fielding": {}
     },
     {
@@ -7116,8 +7284,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 222,
+        "innings": 158,
+        "runs": 1980,
+        "highest": 61,
+        "average": 14.56,
+        "strike_rate": 135.99,
+        "sixes": 59,
+        "fours": 259
+      },
+      "career_bowling": {
+        "matches": 222,
+        "wickets": 31,
+        "overs": 63.2,
+        "economy": 9.49
+      },
       "career_fielding": {}
     },
     {
@@ -7719,8 +7901,22 @@
           "economy": 11.6
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 176,
+        "innings": 117,
+        "runs": 1116,
+        "highest": 54,
+        "average": 13.29,
+        "strike_rate": 132.07,
+        "sixes": 29,
+        "fours": 150
+      },
+      "career_bowling": {
+        "matches": 176,
+        "wickets": 32,
+        "overs": 68.5,
+        "economy": 10.31
+      },
       "career_fielding": {}
     },
     {
@@ -8369,8 +8565,22 @@
           "economy": 7.67
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 273,
+        "innings": 177,
+        "runs": 2051,
+        "highest": 68,
+        "average": 13.95,
+        "strike_rate": 181.02,
+        "sixes": 167,
+        "fours": 139
+      },
+      "career_bowling": {
+        "matches": 273,
+        "wickets": 226,
+        "overs": 487.1,
+        "economy": 8.83
+      },
       "career_fielding": {}
     },
     {
@@ -8642,8 +8852,22 @@
           "economy": 11.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 52,
+        "innings": 24,
+        "runs": 241,
+        "highest": 43,
+        "average": 15.06,
+        "strike_rate": 139.31,
+        "sixes": 13,
+        "fours": 17
+      },
+      "career_bowling": {
+        "matches": 52,
+        "wickets": 13,
+        "overs": 28.0,
+        "economy": 11.18
+      },
       "career_fielding": {}
     },
     {
@@ -9273,8 +9497,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 115,
+        "innings": 54,
+        "runs": 383,
+        "highest": 69,
+        "average": 9.82,
+        "strike_rate": 115.71,
+        "sixes": 18,
+        "fours": 37
+      },
+      "career_bowling": {
+        "matches": 115,
+        "wickets": 8,
+        "overs": 20.4,
+        "economy": 11.47
+      },
       "career_fielding": {}
     },
     {
@@ -9914,8 +10152,22 @@
           "economy": 5.5
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 260,
+        "innings": 154,
+        "runs": 1437,
+        "highest": 81,
+        "average": 12.18,
+        "strike_rate": 141.44,
+        "sixes": 65,
+        "fours": 160
+      },
+      "career_bowling": {
+        "matches": 260,
+        "wickets": 220,
+        "overs": 382.1,
+        "economy": 9.32
+      },
       "career_fielding": {}
     },
     {
@@ -10602,8 +10854,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 277,
+        "innings": 128,
+        "runs": 1126,
+        "highest": 55,
+        "average": 11.85,
+        "strike_rate": 133.1,
+        "sixes": 61,
+        "fours": 90
+      },
+      "career_bowling": {
+        "matches": 277,
+        "wickets": 112,
+        "overs": 238.4,
+        "economy": 10.37
+      },
       "career_fielding": {}
     },
     {
@@ -11290,8 +11556,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 77,
+        "innings": 17,
+        "runs": 163,
+        "highest": 85,
+        "average": 16.3,
+        "strike_rate": 142.98,
+        "sixes": 6,
+        "fours": 17
+      },
+      "career_bowling": {
+        "matches": 77,
+        "wickets": 48,
+        "overs": 87.5,
+        "economy": 9.07
+      },
       "career_fielding": {}
     },
     {
@@ -11752,8 +12032,22 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 50,
+        "innings": 0,
+        "runs": 35,
+        "highest": 0,
+        "average": 0.0,
+        "strike_rate": 81.4,
+        "sixes": 0,
+        "fours": 5
+      },
+      "career_bowling": {
+        "matches": 50,
+        "wickets": 0,
+        "overs": 0.0,
+        "economy": 0.0
+      },
       "career_fielding": {}
     },
     {
@@ -11997,8 +12291,22 @@
           "economy": 7.67
         }
       ],
-      "career_batting": {},
-      "career_bowling": {},
+      "career_batting": {
+        "matches": 50,
+        "innings": 14,
+        "runs": 70,
+        "highest": 16,
+        "average": 14.0,
+        "strike_rate": 93.33,
+        "sixes": 1,
+        "fours": 9
+      },
+      "career_bowling": {
+        "matches": 50,
+        "wickets": 14,
+        "overs": 37.2,
+        "economy": 10.82
+      },
       "career_fielding": {}
     }
   ],
@@ -14394,7 +14702,20 @@
     "15",
     "20"
   ],
-  "generated_at": "2026-04-04",
+  "generated_at": "2026-04-06",
+  "config": {
+    "bat_avg_benchmark": 20.0,
+    "bat_sr_benchmark": 120.0,
+    "bowl_econ_good": 9.0,
+    "bowl_econ_bad": 16.0,
+    "recent_matches_n": 5,
+    "form_in_threshold": 60,
+    "form_avg_threshold": 40,
+    "weight_recent_form": 0.4,
+    "weight_format_specific": 0.3,
+    "weight_career_avg": 0.2,
+    "weight_consistency": 0.1
+  },
   "accountability": {
     "players": [
       {
