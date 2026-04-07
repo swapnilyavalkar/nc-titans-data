@@ -18,6 +18,7 @@
       "formats": {
         "0": {
           "matches_played": 32,
+          "innings_batted": 12,
           "batting_avg": 6.0,
           "batting_sr": 96.43,
           "runs_total": 54,
@@ -25,11 +26,13 @@
           "bowling_avg": 26.0,
           "bowling_economy": 13.0,
           "wickets_total": 1,
+          "overs_bowled_total": 2.0,
           "form_score": 35.95,
           "recent_bat_avg": 0
         },
         "6": {
           "matches_played": 16,
+          "innings_batted": 3,
           "batting_avg": 10.0,
           "batting_sr": 100.0,
           "runs_total": 10,
@@ -37,11 +40,13 @@
           "bowling_avg": 17.0,
           "bowling_economy": 17.0,
           "wickets_total": 1,
+          "overs_bowled_total": 1.0,
           "form_score": 43.61,
           "recent_bat_avg": 0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -49,11 +54,13 @@
           "bowling_avg": 9.0,
           "bowling_economy": 9.0,
           "wickets_total": 0,
+          "overs_bowled_total": 1.0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 13.5,
           "batting_sr": 150.0,
           "runs_total": 27,
@@ -61,11 +68,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 76.74,
           "recent_bat_avg": 13.5
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 5,
           "batting_avg": 4.0,
           "batting_sr": 72.73,
           "runs_total": 16,
@@ -73,6 +82,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 46.31,
           "recent_bat_avg": 3.5
         }
@@ -834,6 +844,7 @@
       "formats": {
         "0": {
           "matches_played": 29,
+          "innings_batted": 10,
           "batting_avg": 10.88,
           "batting_sr": 170.59,
           "runs_total": 87,
@@ -841,11 +852,13 @@
           "bowling_avg": 15.77,
           "bowling_economy": 9.46,
           "wickets_total": 22,
+          "overs_bowled_total": 36.67,
           "form_score": 77.41,
           "recent_bat_avg": 4.0
         },
         "6": {
           "matches_played": 13,
+          "innings_batted": 3,
           "batting_avg": 5.5,
           "batting_sr": 122.22,
           "runs_total": 11,
@@ -853,11 +866,13 @@
           "bowling_avg": 31.0,
           "bowling_economy": 12.4,
           "wickets_total": 2,
+          "overs_bowled_total": 5.0,
           "form_score": 62.69,
           "recent_bat_avg": 4.0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 11.0,
           "batting_sr": 183.33,
           "runs_total": 22,
@@ -865,11 +880,13 @@
           "bowling_avg": 14.0,
           "bowling_economy": 14.0,
           "wickets_total": 6,
+          "overs_bowled_total": 6.0,
           "form_score": 51.02,
           "recent_bat_avg": 11.0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 10.0,
           "batting_sr": 200.0,
           "runs_total": 10,
@@ -877,11 +894,13 @@
           "bowling_avg": 9.0,
           "bowling_economy": 7.2,
           "wickets_total": 4,
+          "overs_bowled_total": 5.0,
           "form_score": 88.04,
           "recent_bat_avg": 10.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 3,
           "batting_avg": 13.0,
           "batting_sr": 205.26,
           "runs_total": 39,
@@ -889,6 +908,7 @@
           "bowling_avg": 14.86,
           "bowling_economy": 7.09,
           "wickets_total": 7,
+          "overs_bowled_total": 14.67,
           "form_score": 89.21,
           "recent_bat_avg": 13.0
         }
@@ -1593,6 +1613,7 @@
       "formats": {
         "0": {
           "matches_played": 16,
+          "innings_batted": 10,
           "batting_avg": 9.3,
           "batting_sr": 130.99,
           "runs_total": 93,
@@ -1600,11 +1621,13 @@
           "bowling_avg": 21.0,
           "bowling_economy": 10.5,
           "wickets_total": 0,
+          "overs_bowled_total": 2.0,
           "form_score": 46.34,
           "recent_bat_avg": 2.5
         },
         "6": {
           "matches_played": 5,
+          "innings_batted": 2,
           "batting_avg": 2.5,
           "batting_sr": 62.5,
           "runs_total": 5,
@@ -1612,11 +1635,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 25.0,
           "recent_bat_avg": 2.5
         },
         "10": {
           "matches_played": 2,
+          "innings_batted": 1,
           "batting_avg": 7.0,
           "batting_sr": 116.67,
           "runs_total": 7,
@@ -1624,11 +1649,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 43.07,
           "recent_bat_avg": 7.0
         },
         "15": {
           "matches_played": 2,
+          "innings_batted": 1,
           "batting_avg": 26.0,
           "batting_sr": 173.33,
           "runs_total": 26,
@@ -1636,11 +1663,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 59.5,
           "recent_bat_avg": 26.0
         },
         "20": {
           "matches_played": 4,
+          "innings_batted": 4,
           "batting_avg": 8.75,
           "batting_sr": 125.0,
           "runs_total": 35,
@@ -1648,6 +1677,7 @@
           "bowling_avg": 21.0,
           "bowling_economy": 10.5,
           "wickets_total": 0,
+          "overs_bowled_total": 2.0,
           "form_score": 68.96,
           "recent_bat_avg": 8.75
         }
@@ -2069,6 +2099,7 @@
       "formats": {
         "0": {
           "matches_played": 22,
+          "innings_batted": 9,
           "batting_avg": 11.67,
           "batting_sr": 142.86,
           "runs_total": 70,
@@ -2076,11 +2107,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 68.96,
           "recent_bat_avg": 6.0
         },
         "6": {
           "matches_played": 11,
+          "innings_batted": 3,
           "batting_avg": 6.0,
           "batting_sr": 200.0,
           "runs_total": 12,
@@ -2088,11 +2121,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 65.14,
           "recent_bat_avg": 6.0
         },
         "10": {
           "matches_played": 2,
+          "innings_batted": 2,
           "batting_avg": 13.0,
           "batting_sr": 173.33,
           "runs_total": 26,
@@ -2100,11 +2135,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 83.66,
           "recent_bat_avg": 13.0
         },
         "15": {
           "matches_played": 1,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2112,11 +2149,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 3,
           "batting_avg": 3.0,
           "batting_sr": 75.0,
           "runs_total": 6,
@@ -2124,6 +2163,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 36.28,
           "recent_bat_avg": 2.0
         }
@@ -2686,6 +2726,7 @@
       "formats": {
         "0": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2693,11 +2734,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "6": {
           "matches_played": 0,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2705,11 +2748,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 0,
           "recent_bat_avg": 0
         },
         "10": {
           "matches_played": 0,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2717,11 +2762,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 0,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 0,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2729,11 +2776,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 0,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 2,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -2741,6 +2790,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         }
@@ -2870,6 +2920,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 30,
           "batting_avg": 17.5,
           "batting_sr": 185.99,
           "runs_total": 385,
@@ -2877,11 +2928,13 @@
           "bowling_avg": 24.0,
           "bowling_economy": 11.09,
           "wickets_total": 2,
+          "overs_bowled_total": 4.33,
           "form_score": 75.5,
           "recent_bat_avg": 10.0
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 15,
           "batting_avg": 12.0,
           "batting_sr": 176.0,
           "runs_total": 132,
@@ -2889,11 +2942,13 @@
           "bowling_avg": 12.0,
           "bowling_economy": 12.0,
           "wickets_total": 1,
+          "overs_bowled_total": 1.0,
           "form_score": 76.39,
           "recent_bat_avg": 10.0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 3,
           "batting_avg": 116.0,
           "batting_sr": 297.44,
           "runs_total": 116,
@@ -2901,11 +2956,13 @@
           "bowling_avg": 36.0,
           "bowling_economy": 10.81,
           "wickets_total": 1,
+          "overs_bowled_total": 3.33,
           "form_score": 91.3,
           "recent_bat_avg": 38.67
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 3,
           "batting_avg": 14.0,
           "batting_sr": 210.0,
           "runs_total": 42,
@@ -2913,11 +2970,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 76.8,
           "recent_bat_avg": 14.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 5,
           "batting_avg": 19.25,
           "batting_sr": 145.28,
           "runs_total": 77,
@@ -2925,6 +2984,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 75.03,
           "recent_bat_avg": 15.4
         }
@@ -3705,6 +3765,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 24,
           "batting_avg": 28.9,
           "batting_sr": 214.07,
           "runs_total": 578,
@@ -3712,11 +3773,13 @@
           "bowling_avg": 21.0,
           "bowling_economy": 14.0,
           "wickets_total": 2,
+          "overs_bowled_total": 3.0,
           "form_score": 80.16,
           "recent_bat_avg": 11.8
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 12,
           "batting_avg": 19.5,
           "batting_sr": 221.59,
           "runs_total": 195,
@@ -3724,11 +3787,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 81.0,
           "recent_bat_avg": 11.8
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 25.0,
           "batting_sr": 208.33,
           "runs_total": 25,
@@ -3736,11 +3801,13 @@
           "bowling_avg": 7.5,
           "bowling_economy": 15.0,
           "wickets_total": 2,
+          "overs_bowled_total": 1.0,
           "form_score": 88.64,
           "recent_bat_avg": 12.5
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -3748,11 +3815,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 6,
           "batting_avg": 42.33,
           "batting_sr": 190.98,
           "runs_total": 254,
@@ -3760,6 +3829,7 @@
           "bowling_avg": 27.0,
           "bowling_economy": 13.5,
           "wickets_total": 0,
+          "overs_bowled_total": 2.0,
           "form_score": 90.0,
           "recent_bat_avg": 45.8
         }
@@ -4540,6 +4610,7 @@
       "formats": {
         "0": {
           "matches_played": 27,
+          "innings_batted": 8,
           "batting_avg": 7.33,
           "batting_sr": 118.92,
           "runs_total": 44,
@@ -4547,11 +4618,13 @@
           "bowling_avg": 22.0,
           "bowling_economy": 11.09,
           "wickets_total": 10,
+          "overs_bowled_total": 19.83,
           "form_score": 44.62,
           "recent_bat_avg": 0.5
         },
         "6": {
           "matches_played": 13,
+          "innings_batted": 3,
           "batting_avg": 3.0,
           "batting_sr": 75.0,
           "runs_total": 6,
@@ -4559,11 +4632,13 @@
           "bowling_avg": 12.0,
           "bowling_economy": 12.42,
           "wickets_total": 5,
+          "overs_bowled_total": 4.83,
           "form_score": 32.18,
           "recent_bat_avg": 0.5
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 9.5,
           "batting_sr": 146.15,
           "runs_total": 19,
@@ -4571,11 +4646,13 @@
           "bowling_avg": 8.5,
           "bowling_economy": 8.5,
           "wickets_total": 2,
+          "overs_bowled_total": 2.0,
           "form_score": 80.87,
           "recent_bat_avg": 9.5
         },
         "15": {
           "matches_played": 1,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -4583,11 +4660,13 @@
           "bowling_avg": 13.0,
           "bowling_economy": 13.0,
           "wickets_total": 0,
+          "overs_bowled_total": 1.0,
           "form_score": 24.76,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 3,
           "batting_avg": 9.5,
           "batting_sr": 118.75,
           "runs_total": 19,
@@ -4595,6 +4674,7 @@
           "bowling_avg": 61.0,
           "bowling_economy": 8.71,
           "wickets_total": 1,
+          "overs_bowled_total": 7.0,
           "form_score": 64.98,
           "recent_bat_avg": 6.33
         }
@@ -5252,6 +5332,7 @@
       "formats": {
         "0": {
           "matches_played": 28,
+          "innings_batted": 18,
           "batting_avg": 10.07,
           "batting_sr": 138.24,
           "runs_total": 141,
@@ -5259,11 +5340,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 64.68,
           "recent_bat_avg": 5.33
         },
         "6": {
           "matches_played": 15,
+          "innings_batted": 8,
           "batting_avg": 5.0,
           "batting_sr": 90.91,
           "runs_total": 30,
@@ -5271,11 +5354,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 54.55,
           "recent_bat_avg": 5.33
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 1.5,
           "batting_sr": 42.86,
           "runs_total": 3,
@@ -5283,11 +5368,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 29.66,
           "recent_bat_avg": 1.5
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 16.0,
           "batting_sr": 266.67,
           "runs_total": 16,
@@ -5295,11 +5382,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 91.2,
           "recent_bat_avg": 16.0
         },
         "20": {
           "matches_played": 5,
+          "innings_batted": 5,
           "batting_avg": 15.25,
           "batting_sr": 141.86,
           "runs_total": 61,
@@ -5307,6 +5396,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 82.38,
           "recent_bat_avg": 12.2
         }
@@ -5983,6 +6073,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 18,
           "batting_avg": 14.24,
           "batting_sr": 186.15,
           "runs_total": 242,
@@ -5990,11 +6081,13 @@
           "bowling_avg": 14.93,
           "bowling_economy": 7.34,
           "wickets_total": 29,
+          "overs_bowled_total": 59.0,
           "form_score": 52.29,
           "recent_bat_avg": 0
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 8,
           "batting_avg": 9.0,
           "batting_sr": 171.43,
           "runs_total": 72,
@@ -6002,11 +6095,13 @@
           "bowling_avg": 17.25,
           "bowling_economy": 8.12,
           "wickets_total": 8,
+          "overs_bowled_total": 17.0,
           "form_score": 45.37,
           "recent_bat_avg": 0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 31.0,
           "batting_sr": 238.46,
           "runs_total": 31,
@@ -6014,11 +6109,13 @@
           "bowling_avg": 21.0,
           "bowling_economy": 10.5,
           "wickets_total": 1,
+          "overs_bowled_total": 2.0,
           "form_score": 86.43,
           "recent_bat_avg": 31.0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -6026,11 +6123,13 @@
           "bowling_avg": 6.5,
           "bowling_economy": 4.88,
           "wickets_total": 6,
+          "overs_bowled_total": 8.0,
           "form_score": 63.0,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 5,
           "batting_avg": 20.25,
           "batting_sr": 207.69,
           "runs_total": 81,
@@ -6038,6 +6137,7 @@
           "bowling_avg": 16.88,
           "bowling_economy": 7.5,
           "wickets_total": 8,
+          "overs_bowled_total": 18.0,
           "form_score": 93.69,
           "recent_bat_avg": 16.2
         }
@@ -6818,6 +6918,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 11,
           "batting_avg": 17.89,
           "batting_sr": 135.29,
           "runs_total": 161,
@@ -6825,11 +6926,13 @@
           "bowling_avg": 21.38,
           "bowling_economy": 9.99,
           "wickets_total": 13,
+          "overs_bowled_total": 27.83,
           "form_score": 70.66,
           "recent_bat_avg": 5.0
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 2,
           "batting_avg": 28.0,
           "batting_sr": 175.0,
           "runs_total": 28,
@@ -6837,11 +6940,13 @@
           "bowling_avg": 14.86,
           "bowling_economy": 10.58,
           "wickets_total": 7,
+          "overs_bowled_total": 9.83,
           "form_score": 67.9,
           "recent_bat_avg": 5.0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -6849,11 +6954,13 @@
           "bowling_avg": 27.5,
           "bowling_economy": 13.75,
           "wickets_total": 2,
+          "overs_bowled_total": 4.0,
           "form_score": 18.36,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 49.0,
           "batting_sr": 106.52,
           "runs_total": 49,
@@ -6861,11 +6968,13 @@
           "bowling_avg": 12.5,
           "bowling_economy": 8.33,
           "wickets_total": 2,
+          "overs_bowled_total": 3.0,
           "form_score": 87.09,
           "recent_bat_avg": 24.5
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 3,
           "batting_avg": 22.33,
           "batting_sr": 171.79,
           "runs_total": 67,
@@ -6873,6 +6982,7 @@
           "bowling_avg": 73.0,
           "bowling_economy": 9.12,
           "wickets_total": 1,
+          "overs_bowled_total": 8.0,
           "form_score": 79.39,
           "recent_bat_avg": 28.5
         }
@@ -7653,6 +7763,7 @@
       "formats": {
         "0": {
           "matches_played": 32,
+          "innings_batted": 19,
           "batting_avg": 12.29,
           "batting_sr": 148.23,
           "runs_total": 209,
@@ -7660,11 +7771,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 46.95,
           "recent_bat_avg": 6.67
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 9,
           "batting_avg": 5.11,
           "batting_sr": 124.32,
           "runs_total": 46,
@@ -7672,11 +7785,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 46.26,
           "recent_bat_avg": 6.67
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 1.0,
           "batting_sr": 33.33,
           "runs_total": 1,
@@ -7684,11 +7799,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 18.73,
           "recent_bat_avg": 1.0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 48.0,
           "batting_sr": 282.35,
           "runs_total": 48,
@@ -7696,11 +7813,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 75.0,
           "recent_bat_avg": 48.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 5,
           "batting_avg": 10.6,
           "batting_sr": 123.26,
           "runs_total": 53,
@@ -7708,6 +7827,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 44.27,
           "recent_bat_avg": 5.75
         }
@@ -8469,6 +8589,7 @@
       "formats": {
         "0": {
           "matches_played": 29,
+          "innings_batted": 22,
           "batting_avg": 13.76,
           "batting_sr": 159.18,
           "runs_total": 234,
@@ -8476,11 +8597,13 @@
           "bowling_avg": 18.56,
           "bowling_economy": 9.54,
           "wickets_total": 9,
+          "overs_bowled_total": 17.5,
           "form_score": 58.78,
           "recent_bat_avg": 7.5
         },
         "6": {
           "matches_played": 16,
+          "innings_batted": 11,
           "batting_avg": 13.14,
           "batting_sr": 164.29,
           "runs_total": 92,
@@ -8488,11 +8611,13 @@
           "bowling_avg": 24.0,
           "bowling_economy": 12.0,
           "wickets_total": 0,
+          "overs_bowled_total": 2.0,
           "form_score": 48.31,
           "recent_bat_avg": 7.5
         },
         "10": {
           "matches_played": 2,
+          "innings_batted": 2,
           "batting_avg": 2.0,
           "batting_sr": 100.0,
           "runs_total": 4,
@@ -8500,11 +8625,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 32.47,
           "recent_bat_avg": 2.0
         },
         "15": {
           "matches_played": 2,
+          "innings_batted": 1,
           "batting_avg": 27.0,
           "batting_sr": 192.86,
           "runs_total": 27,
@@ -8512,11 +8639,13 @@
           "bowling_avg": 21.0,
           "bowling_economy": 7.0,
           "wickets_total": 1,
+          "overs_bowled_total": 3.0,
           "form_score": 100.0,
           "recent_bat_avg": 27.0
         },
         "20": {
           "matches_played": 5,
+          "innings_batted": 4,
           "batting_avg": 14.75,
           "batting_sr": 155.26,
           "runs_total": 59,
@@ -8524,6 +8653,7 @@
           "bowling_avg": 13.57,
           "bowling_economy": 10.0,
           "wickets_total": 7,
+          "overs_bowled_total": 9.5,
           "form_score": 76.14,
           "recent_bat_avg": 14.75
         }
@@ -9219,6 +9349,7 @@
       "formats": {
         "0": {
           "matches_played": 29,
+          "innings_batted": 20,
           "batting_avg": 12.26,
           "batting_sr": 219.81,
           "runs_total": 233,
@@ -9226,11 +9357,13 @@
           "bowling_avg": 24.33,
           "bowling_economy": 10.43,
           "wickets_total": 21,
+          "overs_bowled_total": 49.0,
           "form_score": 72.67,
           "recent_bat_avg": 7.5
         },
         "6": {
           "matches_played": 14,
+          "innings_batted": 11,
           "batting_avg": 8.4,
           "batting_sr": 204.88,
           "runs_total": 84,
@@ -9238,11 +9371,13 @@
           "bowling_avg": 23.89,
           "bowling_economy": 12.65,
           "wickets_total": 9,
+          "overs_bowled_total": 17.0,
           "form_score": 63.95,
           "recent_bat_avg": 7.5
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -9250,11 +9385,13 @@
           "bowling_avg": 16.5,
           "bowling_economy": 11.0,
           "wickets_total": 2,
+          "overs_bowled_total": 3.0,
           "form_score": 32.57,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 2,
           "batting_avg": 23.0,
           "batting_sr": 328.57,
           "runs_total": 46,
@@ -9262,11 +9399,13 @@
           "bowling_avg": 21.67,
           "bowling_economy": 9.29,
           "wickets_total": 3,
+          "overs_bowled_total": 7.0,
           "form_score": 88.44,
           "recent_bat_avg": 23.0
         },
         "20": {
           "matches_played": 5,
+          "innings_batted": 4,
           "batting_avg": 13.75,
           "batting_sr": 177.42,
           "runs_total": 55,
@@ -9274,6 +9413,7 @@
           "bowling_avg": 22.6,
           "bowling_economy": 8.07,
           "wickets_total": 5,
+          "overs_bowled_total": 14.0,
           "form_score": 85.83,
           "recent_bat_avg": 13.75
         }
@@ -9978,6 +10118,7 @@
       "formats": {
         "0": {
           "matches_played": 30,
+          "innings_batted": 14,
           "batting_avg": 14.8,
           "batting_sr": 159.14,
           "runs_total": 148,
@@ -9985,11 +10126,13 @@
           "bowling_avg": 34.0,
           "bowling_economy": 6.8,
           "wickets_total": 1,
+          "overs_bowled_total": 5.0,
           "form_score": 63.01,
           "recent_bat_avg": 4.33
         },
         "6": {
           "matches_played": 14,
+          "innings_batted": 6,
           "batting_avg": 9.25,
           "batting_sr": 108.82,
           "runs_total": 37,
@@ -9997,11 +10140,13 @@
           "bowling_avg": 10.0,
           "bowling_economy": 5.0,
           "wickets_total": 0,
+          "overs_bowled_total": 2.0,
           "form_score": 60.79,
           "recent_bat_avg": 4.33
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -10009,11 +10154,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 22.0,
           "batting_sr": 157.14,
           "runs_total": 22,
@@ -10021,11 +10168,13 @@
           "bowling_avg": 11.0,
           "bowling_economy": 5.5,
           "wickets_total": 1,
+          "overs_bowled_total": 2.0,
           "form_score": 100.0,
           "recent_bat_avg": 22.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 4,
           "batting_avg": 20.5,
           "batting_sr": 221.62,
           "runs_total": 82,
@@ -10033,6 +10182,7 @@
           "bowling_avg": 13.0,
           "bowling_economy": 13.0,
           "wickets_total": 0,
+          "overs_bowled_total": 1.0,
           "form_score": 90.0,
           "recent_bat_avg": 25.0
         }
@@ -10756,6 +10906,7 @@
       "formats": {
         "0": {
           "matches_played": 31,
+          "innings_batted": 18,
           "batting_avg": 8.38,
           "batting_sr": 139.58,
           "runs_total": 134,
@@ -10763,11 +10914,13 @@
           "bowling_avg": 17.2,
           "bowling_economy": 9.89,
           "wickets_total": 25,
+          "overs_bowled_total": 43.5,
           "form_score": 55.54,
           "recent_bat_avg": 1.67
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 10,
           "batting_avg": 6.0,
           "batting_sr": 129.73,
           "runs_total": 48,
@@ -10775,11 +10928,13 @@
           "bowling_avg": 19.78,
           "bowling_economy": 11.48,
           "wickets_total": 9,
+          "overs_bowled_total": 15.5,
           "form_score": 50.96,
           "recent_bat_avg": 1.67
         },
         "10": {
           "matches_played": 2,
+          "innings_batted": 1,
           "batting_avg": 1.0,
           "batting_sr": 33.33,
           "runs_total": 1,
@@ -10787,11 +10942,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 18.24,
           "recent_bat_avg": 1.0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 15.0,
           "batting_sr": 166.67,
           "runs_total": 15,
@@ -10799,11 +10956,13 @@
           "bowling_avg": 7.33,
           "bowling_economy": 4.4,
           "wickets_total": 3,
+          "overs_bowled_total": 5.0,
           "form_score": 100.0,
           "recent_bat_avg": 15.0
         },
         "20": {
           "matches_played": 5,
+          "innings_batted": 4,
           "batting_avg": 17.25,
           "batting_sr": 156.82,
           "runs_total": 69,
@@ -10811,6 +10970,7 @@
           "bowling_avg": 11.83,
           "bowling_economy": 8.35,
           "wickets_total": 12,
+          "overs_bowled_total": 17.0,
           "form_score": 90.12,
           "recent_bat_avg": 17.25
         }
@@ -11544,6 +11704,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 21,
           "batting_avg": 12.56,
           "batting_sr": 143.95,
           "runs_total": 226,
@@ -11551,11 +11712,13 @@
           "bowling_avg": 31.2,
           "bowling_economy": 10.58,
           "wickets_total": 10,
+          "overs_bowled_total": 29.5,
           "form_score": 75.0,
           "recent_bat_avg": 7.0
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 9,
           "batting_avg": 8.86,
           "batting_sr": 134.78,
           "runs_total": 62,
@@ -11563,11 +11726,13 @@
           "bowling_avg": 22.2,
           "bowling_economy": 8.88,
           "wickets_total": 5,
+          "overs_bowled_total": 12.5,
           "form_score": 75.12,
           "recent_bat_avg": 7.0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 3,
           "batting_avg": 16.67,
           "batting_sr": 142.86,
           "runs_total": 50,
@@ -11575,11 +11740,13 @@
           "bowling_avg": 19.0,
           "bowling_economy": 12.67,
           "wickets_total": 2,
+          "overs_bowled_total": 3.0,
           "form_score": 66.36,
           "recent_bat_avg": 16.67
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 23.0,
           "batting_sr": 328.57,
           "runs_total": 23,
@@ -11587,11 +11754,13 @@
           "bowling_avg": 48.0,
           "bowling_economy": 16.0,
           "wickets_total": 1,
+          "overs_bowled_total": 3.0,
           "form_score": 61.69,
           "recent_bat_avg": 23.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 4,
           "batting_avg": 19.75,
           "batting_sr": 149.06,
           "runs_total": 79,
@@ -11599,6 +11768,7 @@
           "bowling_avg": 41.0,
           "bowling_economy": 10.25,
           "wickets_total": 1,
+          "overs_bowled_total": 4.0,
           "form_score": 78.46,
           "recent_bat_avg": 19.75
         }
@@ -12379,6 +12549,7 @@
       "formats": {
         "0": {
           "matches_played": 33,
+          "innings_batted": 8,
           "batting_avg": 20.83,
           "batting_sr": 176.06,
           "runs_total": 125,
@@ -12386,11 +12557,13 @@
           "bowling_avg": 21.21,
           "bowling_economy": 9.19,
           "wickets_total": 19,
+          "overs_bowled_total": 43.83,
           "form_score": 57.87,
           "recent_bat_avg": 1.0
         },
         "6": {
           "matches_played": 17,
+          "innings_batted": 1,
           "batting_avg": 1.0,
           "batting_sr": 50.0,
           "runs_total": 1,
@@ -12398,11 +12571,13 @@
           "bowling_avg": 13.25,
           "bowling_economy": 8.15,
           "wickets_total": 8,
+          "overs_bowled_total": 13.0,
           "form_score": 31.37,
           "recent_bat_avg": 1.0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 4.0,
           "batting_sr": 66.67,
           "runs_total": 4,
@@ -12410,11 +12585,13 @@
           "bowling_avg": 54.0,
           "bowling_economy": 13.5,
           "wickets_total": 0,
+          "overs_bowled_total": 4.0,
           "form_score": 44.36,
           "recent_bat_avg": 4.0
         },
         "15": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 10.0,
           "batting_sr": 250.0,
           "runs_total": 10,
@@ -12422,11 +12599,13 @@
           "bowling_avg": 27.0,
           "bowling_economy": 10.8,
           "wickets_total": 2,
+          "overs_bowled_total": 5.0,
           "form_score": 78.0,
           "recent_bat_avg": 10.0
         },
         "20": {
           "matches_played": 6,
+          "innings_batted": 3,
           "batting_avg": 1.5,
           "batting_sr": 60.0,
           "runs_total": 3,
@@ -12434,6 +12613,7 @@
           "bowling_avg": 12.38,
           "bowling_economy": 7.16,
           "wickets_total": 8,
+          "overs_bowled_total": 13.83,
           "form_score": 33.21,
           "recent_bat_avg": 1.0
         }
@@ -13214,6 +13394,7 @@
       "formats": {
         "0": {
           "matches_played": 21,
+          "innings_batted": 4,
           "batting_avg": 11.0,
           "batting_sr": 91.67,
           "runs_total": 11,
@@ -13221,11 +13402,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 42.44,
           "recent_bat_avg": 0
         },
         "6": {
           "matches_played": 13,
+          "innings_batted": 2,
           "batting_avg": 9.0,
           "batting_sr": 128.57,
           "runs_total": 9,
@@ -13233,11 +13416,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 48.53,
           "recent_bat_avg": 0
         },
         "10": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 2.0,
           "batting_sr": 100.0,
           "runs_total": 2,
@@ -13245,11 +13430,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 52.73,
           "recent_bat_avg": 2.0
         },
         "15": {
           "matches_played": 1,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13257,11 +13444,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 3,
+          "innings_batted": 1,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13269,6 +13458,7 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 10.0,
           "recent_bat_avg": 0
         }
@@ -13785,6 +13975,7 @@
       "formats": {
         "0": {
           "matches_played": 7,
+          "innings_batted": 1,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13792,11 +13983,13 @@
           "bowling_avg": 29.5,
           "bowling_economy": 9.83,
           "wickets_total": 2,
+          "overs_bowled_total": 6.0,
           "form_score": 22.28,
           "recent_bat_avg": 0
         },
         "6": {
           "matches_played": 0,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13804,11 +13997,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 0,
           "recent_bat_avg": 0
         },
         "10": {
           "matches_played": 0,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13816,11 +14011,13 @@
           "bowling_avg": 0,
           "bowling_economy": 0,
           "wickets_total": 0,
+          "overs_bowled_total": 0,
           "form_score": 0,
           "recent_bat_avg": 0
         },
         "15": {
           "matches_played": 2,
+          "innings_batted": 1,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13828,11 +14025,13 @@
           "bowling_avg": 36.0,
           "bowling_economy": 12.0,
           "wickets_total": 1,
+          "overs_bowled_total": 3.0,
           "form_score": 17.54,
           "recent_bat_avg": 0
         },
         "20": {
           "matches_played": 3,
+          "innings_batted": 0,
           "batting_avg": 0,
           "batting_sr": 0,
           "runs_total": 0,
@@ -13840,6 +14039,7 @@
           "bowling_avg": 23.0,
           "bowling_economy": 7.67,
           "wickets_total": 1,
+          "overs_bowled_total": 3.0,
           "form_score": 49.79,
           "recent_bat_avg": 0
         }
