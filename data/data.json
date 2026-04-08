@@ -1,6 +1,6 @@
 {
   "team": {
-    "name": "NC Titans",
+    "name": "Titans",
     "team_id": "11906874",
     "nct_matches": 33
   },
@@ -10,9 +10,9 @@
       "cricheroes_id": "8102785",
       "name": "Ankesh Awsare",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1757704964177_EPcUt2CWeVQk.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 35.95,
       "formats": {
@@ -813,22 +813,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 349,
-        "innings": 175,
-        "runs": 1047,
-        "highest": 42,
-        "average": 7.87,
-        "strike_rate": 100.67,
-        "sixes": 42,
-        "fours": 97
-      },
-      "career_bowling": {
-        "matches": 349,
-        "wickets": 17,
-        "overs": 30.2,
-        "economy": 13.09
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -836,9 +822,9 @@
       "cricheroes_id": "30766297",
       "name": "Ankur Yadav",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1774424698117_ELrmqTQni3nW.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Left-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 77.41,
       "formats": {
@@ -1582,22 +1568,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 32,
-        "innings": 14,
-        "runs": 129,
-        "highest": 22,
-        "average": 12.9,
-        "strike_rate": 169.74,
-        "sixes": 6,
-        "fours": 14
-      },
-      "career_bowling": {
-        "matches": 32,
-        "wickets": 23,
-        "overs": 39.4,
-        "economy": 9.48
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -1605,9 +1577,9 @@
       "cricheroes_id": "25498936",
       "name": "Ashvin Bahadure",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1703946160294_wKK3lOXISouc.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 46.34,
       "formats": {
@@ -2068,22 +2040,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 161,
-        "innings": 109,
-        "runs": 1022,
-        "highest": 75,
-        "average": 12.46,
-        "strike_rate": 133.59,
-        "sixes": 59,
-        "fours": 103
-      },
-      "career_bowling": {
-        "matches": 161,
-        "wickets": 23,
-        "overs": 58.1,
-        "economy": 11.05
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -2091,9 +2049,9 @@
       "cricheroes_id": "20150780",
       "name": "Avi Dalvi",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1728477054702_7ryZJqkxxrd6.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 68.96,
       "formats": {
@@ -2695,22 +2653,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 58,
-        "innings": 24,
-        "runs": 262,
-        "highest": 50,
-        "average": 15.41,
-        "strike_rate": 144.75,
-        "sixes": 16,
-        "fours": 25
-      },
-      "career_bowling": {
-        "matches": 58,
-        "wickets": 0,
-        "overs": 1.0,
-        "economy": 9.0
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -2718,9 +2662,9 @@
       "cricheroes_id": "13914535",
       "name": "Dhiraj Shinde",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1763295886466_OC77EG06kboC.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Insufficient Data",
       "overall_score": 10.0,
       "formats": {
@@ -2889,22 +2833,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 27,
-        "innings": 11,
-        "runs": 51,
-        "highest": 11,
-        "average": 6.38,
-        "strike_rate": 87.93,
-        "sixes": 0,
-        "fours": 4
-      },
-      "career_bowling": {
-        "matches": 27,
-        "wickets": 1,
-        "overs": 7.0,
-        "economy": 6.29
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -2912,9 +2842,9 @@
       "cricheroes_id": "7983336",
       "name": "Dinesh Shinde",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1763746448545_JLn63cmWAwZk.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 75.5,
       "formats": {
@@ -3734,22 +3664,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 346,
-        "innings": 259,
-        "runs": 2945,
-        "highest": 71,
-        "average": 14.37,
-        "strike_rate": 146.88,
-        "sixes": 214,
-        "fours": 221
-      },
-      "career_bowling": {
-        "matches": 346,
-        "wickets": 64,
-        "overs": 126.0,
-        "economy": 11.29
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -3757,9 +3673,9 @@
       "cricheroes_id": "19847031",
       "name": "Gajanan Awsare  (c)",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1774448823827_yeuF6BHAdPkf.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 80.16,
       "formats": {
@@ -4579,22 +4495,8 @@
           "economy": 13.5
         }
       ],
-      "career_batting": {
-        "matches": 346,
-        "innings": 279,
-        "runs": 5037,
-        "highest": 100,
-        "average": 21.81,
-        "strike_rate": 178.11,
-        "sixes": 326,
-        "fours": 488
-      },
-      "career_bowling": {
-        "matches": 346,
-        "wickets": 34,
-        "overs": 71.2,
-        "economy": 11.89
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -4602,9 +4504,9 @@
       "cricheroes_id": "42230134",
       "name": "Gajanan Bharade",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1767896609968_Xt6TGe6uNVbM.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 44.62,
       "formats": {
@@ -5301,22 +5203,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 63,
-        "innings": 16,
-        "runs": 68,
-        "highest": 18,
-        "average": 6.8,
-        "strike_rate": 119.3,
-        "sixes": 2,
-        "fours": 10
-      },
-      "career_bowling": {
-        "matches": 63,
-        "wickets": 25,
-        "overs": 42.5,
-        "economy": 11.0
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -5324,9 +5212,9 @@
       "cricheroes_id": "26281961",
       "name": "Ganesh Jogdand",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1733032740317_5dz1ospaJNrI.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 64.68,
       "formats": {
@@ -6042,22 +5930,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 145,
-        "innings": 90,
-        "runs": 723,
-        "highest": 47,
-        "average": 12.05,
-        "strike_rate": 118.52,
-        "sixes": 38,
-        "fours": 57
-      },
-      "career_bowling": {
-        "matches": 145,
-        "wickets": 1,
-        "overs": 11.0,
-        "economy": 10.55
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -6065,9 +5939,9 @@
       "cricheroes_id": "19692173",
       "name": "Jalindar Agre",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1706975670048_oprT1i4TETpV.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 52.29,
       "formats": {
@@ -6887,22 +6761,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 318,
-        "innings": 212,
-        "runs": 3000,
-        "highest": 81,
-        "average": 16.76,
-        "strike_rate": 180.07,
-        "sixes": 196,
-        "fours": 284
-      },
-      "career_bowling": {
-        "matches": 318,
-        "wickets": 286,
-        "overs": 577.4,
-        "economy": 6.86
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -6910,9 +6770,9 @@
       "cricheroes_id": "15094942",
       "name": "Kadar Khan",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1746282952863_yqtzyXCCNndI.jpeg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 70.66,
       "formats": {
@@ -7732,22 +7592,8 @@
           "economy": 10.33
         }
       ],
-      "career_batting": {
-        "matches": 276,
-        "innings": 149,
-        "runs": 1317,
-        "highest": 57,
-        "average": 11.86,
-        "strike_rate": 121.61,
-        "sixes": 36,
-        "fours": 143
-      },
-      "career_bowling": {
-        "matches": 276,
-        "wickets": 92,
-        "overs": 180.1,
-        "economy": 10.56
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -7755,9 +7601,9 @@
       "cricheroes_id": "10330876",
       "name": "Prashant Dalvi",
       "role": "wicket_keeper",
-      "photo_url": "https://media.cricheroes.in/user_profile/1743524469335_QdDUQHG330Fa.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 46.95,
       "formats": {
@@ -8558,22 +8404,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 229,
-        "innings": 162,
-        "runs": 2001,
-        "highest": 61,
-        "average": 14.29,
-        "strike_rate": 135.66,
-        "sixes": 59,
-        "fours": 260
-      },
-      "career_bowling": {
-        "matches": 229,
-        "wickets": 31,
-        "overs": 63.2,
-        "economy": 9.49
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -8581,9 +8413,9 @@
       "cricheroes_id": "31147954",
       "name": "Rakesh Ankush",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1766322737129_lahtR9g4TB2n.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Slow left-arm chinaman",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 58.78,
       "formats": {
@@ -9318,22 +9150,8 @@
           "economy": 11.6
         }
       ],
-      "career_batting": {
-        "matches": 183,
-        "innings": 123,
-        "runs": 1150,
-        "highest": 54,
-        "average": 12.92,
-        "strike_rate": 132.34,
-        "sixes": 29,
-        "fours": 157
-      },
-      "career_bowling": {
-        "matches": 183,
-        "wickets": 32,
-        "overs": 68.5,
-        "economy": 10.31
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -9341,9 +9159,9 @@
       "cricheroes_id": "5161232",
       "name": "Ravi Badhe",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1774618139740_zto3OxGiT7yo.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 72.67,
       "formats": {
@@ -10087,22 +9905,8 @@
           "economy": 7.67
         }
       ],
-      "career_batting": {
-        "matches": 280,
-        "innings": 181,
-        "runs": 2081,
-        "highest": 68,
-        "average": 13.87,
-        "strike_rate": 181.59,
-        "sixes": 170,
-        "fours": 141
-      },
-      "career_bowling": {
-        "matches": 280,
-        "wickets": 229,
-        "overs": 495.1,
-        "economy": 8.85
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -10110,9 +9914,9 @@
       "cricheroes_id": "29586774",
       "name": "Sunil Bhande",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1735383674457_dAqAX4T3q3tr.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 63.01,
       "formats": {
@@ -10875,22 +10679,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 122,
-        "innings": 57,
-        "runs": 396,
-        "highest": 69,
-        "average": 9.66,
-        "strike_rate": 115.45,
-        "sixes": 19,
-        "fours": 37
-      },
-      "career_bowling": {
-        "matches": 122,
-        "wickets": 8,
-        "overs": 21.4,
-        "economy": 11.4
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -10898,9 +10688,9 @@
       "cricheroes_id": "10330759",
       "name": "Swapnil Dalvi",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1687017239375_429D7lF6D0Ew.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm medium",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 55.54,
       "formats": {
@@ -11673,22 +11463,8 @@
           "economy": 5.5
         }
       ],
-      "career_batting": {
-        "matches": 267,
-        "innings": 158,
-        "runs": 1443,
-        "highest": 81,
-        "average": 11.93,
-        "strike_rate": 140.23,
-        "sixes": 65,
-        "fours": 160
-      },
-      "career_bowling": {
-        "matches": 267,
-        "wickets": 221,
-        "overs": 387.1,
-        "economy": 9.37
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -11696,9 +11472,9 @@
       "cricheroes_id": "2288543",
       "name": "Swapnil Yavalkar",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1742552378379_8EXAsaMXf8pm.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Average",
       "overall_score": 75.0,
       "formats": {
@@ -12518,22 +12294,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 284,
-        "innings": 133,
-        "runs": 1176,
-        "highest": 55,
-        "average": 11.88,
-        "strike_rate": 133.64,
-        "sixes": 64,
-        "fours": 95
-      },
-      "career_bowling": {
-        "matches": 284,
-        "wickets": 117,
-        "overs": 246.4,
-        "economy": 10.38
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -12541,9 +12303,9 @@
       "cricheroes_id": "42207486",
       "name": "Trambak Bhujbal",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/user_profile/1772970591836_cw0AzemC2Ayk.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 57.87,
       "formats": {
@@ -13363,22 +13125,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 84,
-        "innings": 18,
-        "runs": 164,
-        "highest": 85,
-        "average": 14.91,
-        "strike_rate": 141.38,
-        "sixes": 6,
-        "fours": 17
-      },
-      "career_bowling": {
-        "matches": 84,
-        "wickets": 52,
-        "overs": 95.5,
-        "economy": 9.29
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -13386,8 +13134,8 @@
       "cricheroes_id": "42230277",
       "name": "Tushar Jagdale",
       "role": "batsman",
-      "photo_url": "https://media.cricheroes.in/default/user_profile.png",
-      "batting_style": "RHB",
+      "photo_url": "",
+      "batting_style": "",
       "bowling_style": "",
       "form_badge": "Out of Form",
       "overall_score": 42.44,
@@ -13944,22 +13692,8 @@
           "economy": 0.0
         }
       ],
-      "career_batting": {
-        "matches": 57,
-        "innings": 0,
-        "runs": 37,
-        "highest": 0,
-        "average": 0.0,
-        "strike_rate": 82.22,
-        "sixes": 0,
-        "fours": 5
-      },
-      "career_bowling": {
-        "matches": 57,
-        "wickets": 0,
-        "overs": 0.0,
-        "economy": 0.0
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     },
     {
@@ -13967,9 +13701,9 @@
       "cricheroes_id": "19695435",
       "name": "alim pinjari",
       "role": "all_rounder",
-      "photo_url": "https://media.cricheroes.in/user_profile/1763287237728_udlwL5Xm1KtL.jpg",
-      "batting_style": "RHB",
-      "bowling_style": "Right-arm fast",
+      "photo_url": "",
+      "batting_style": "",
+      "bowling_style": "",
       "form_badge": "Insufficient Data",
       "overall_score": 22.28,
       "formats": {
@@ -14232,22 +13966,8 @@
           "economy": 7.67
         }
       ],
-      "career_batting": {
-        "matches": 50,
-        "innings": 14,
-        "runs": 70,
-        "highest": 16,
-        "average": 14.0,
-        "strike_rate": 93.33,
-        "sixes": 1,
-        "fours": 9
-      },
-      "career_bowling": {
-        "matches": 50,
-        "wickets": 14,
-        "overs": 37.2,
-        "economy": 10.82
-      },
+      "career_batting": {},
+      "career_bowling": {},
       "career_fielding": {}
     }
   ],
@@ -16643,7 +16363,7 @@
     "15",
     "20"
   ],
-  "generated_at": "2026-04-07",
+  "generated_at": "2026-04-08",
   "config": {
     "bat_avg_benchmark": 20.0,
     "bat_sr_benchmark": 120.0,
