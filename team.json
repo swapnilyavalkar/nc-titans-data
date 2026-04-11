@@ -1,0 +1,40 @@
+{
+  "_comment": "NC Titans App — Central Configuration. Changes to the REMOTE copy of this file (hosted at data_base_url/team.json on GitHub Pages) propagate to all installed phones without a rebuild. Only default_users must be changed here in the APK-bundled copy (kept off the public URL for privacy).",
+
+  "app_name": "NC Titans",
+  "team_name": "NC Titans",
+  "team_tagline": "Cricket Analytics",
+  "team_short_name": "NCT",
+  "country_code": "+91",
+
+  "team_logo_url": "",
+
+  "data_base_url": "https://swapnilyavalkar.github.io/nc-titans-data/",
+  "data_json_path": "data/data.json",
+  "data_cache_ttl_hours": 24,
+
+  "default_users": [],
+
+  "excluded_player_ids": [],
+  "excluded_player_ids_usage": "A player left the team but their historical data is still in the JSON. You don't want them showing up in the Players list, Squad, Compare, etc. Instead of modifying the data.json, you just add their ID here.",
+  "banned_player_ids": [],
+  "banned_player_ids_usage": "A player got injured or is serving a ban. They still appear in stats screens (Players, Strategy, etc.) but are excluded from selection screens like Squad, Match Planner, Batting Order, and Availability.",
+
+  "form_in_threshold": 60,
+  "form_avg_threshold": 40,
+  "economy_good": 9.0,
+  "economy_bad": 16.0,
+  "bat_avg_benchmark": 20.0,
+  "bat_sr_benchmark": 120.0,
+
+  "playing_xi_size": 11,
+  "squad_size": 15,
+  "formats": [6, 10, 15, 20],
+  "bowling_quotas": { "6": 2, "10": 2, "15": 3, "20": 4 },
+  "powerplay_overs": { "6": 2, "10": 3, "15": 4, "20": 4 },
+
+  "session_ttl_days": 90,
+
+  "login_footer_text": "Access is restricted to registered Titans members only.",
+  "login_contact_text": "Contact admin to request access."
+}
