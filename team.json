@@ -1,10 +1,10 @@
 {
-  "_comment": "NC Titans App — Central Configuration. Changes to the REMOTE copy of this file (hosted at data_base_url/team.json on GitHub Pages) propagate to all installed phones without a rebuild. Only default_users must be changed here in the APK-bundled copy (kept off the public URL for privacy).",
+  "_comment": "Titans App — Central Configuration. Changes to this file propagate to all installed phones without a rebuild. default_users is intentionally empty here (public URL).",
 
-  "app_name": "NC Titans",
-  "team_name": "NC Titans",
-  "team_tagline": "Cricket Analytics",
-  "team_short_name": "NCT",
+  "app_name": "Titans",
+  "team_name": "Titans",
+  "team_tagline": "Performance Tracker",
+  "team_short_name": "T",
   "country_code": "+91",
 
   "team_logo_url": "",
