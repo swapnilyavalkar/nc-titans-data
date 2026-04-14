@@ -18261,17 +18261,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 4.5,
+                "runs": 41,
+                "wickets": 3,
+                "economy": 9.11
+              },
+              "powerplay": {
+                "overs": 3.2,
+                "runs": 19,
+                "wickets": 1,
+                "economy": 5.94
+              },
               "middle": {
                 "overs": 1.2,
                 "runs": 3,
                 "wickets": 3,
                 "economy": 2.5
-              },
-              "powerplay": {
-                "overs": 1.0,
-                "runs": 3,
-                "wickets": 1,
-                "economy": 3.0
               }
             }
           },
@@ -18413,7 +18419,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 3.3,
+                "runs": 35,
+                "wickets": 2,
+                "economy": 10.61
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -18460,17 +18473,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 1.2,
+                "runs": 6,
+                "wickets": 1,
+                "economy": 5.0
+              },
+              "powerplay": {
+                "overs": 3.2,
+                "runs": 19,
+                "wickets": 1,
+                "economy": 5.94
+              },
               "middle": {
                 "overs": 1.2,
                 "runs": 3,
                 "wickets": 3,
                 "economy": 2.5
-              },
-              "powerplay": {
-                "overs": 1.0,
-                "runs": 3,
-                "wickets": 1,
-                "economy": 3.0
               }
             }
           }
@@ -18848,22 +18867,22 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 3.3,
-                "runs": 43,
-                "wickets": 2,
-                "economy": 13.03
-              },
-              "middle": {
-                "overs": 1.5,
-                "runs": 18,
-                "wickets": 0,
-                "economy": 12.0
+                "overs": 14.7,
+                "runs": 101,
+                "wickets": 9,
+                "economy": 6.87
               },
               "powerplay": {
-                "overs": 1.2,
-                "runs": 16,
-                "wickets": 1,
-                "economy": 13.33
+                "overs": 9.3,
+                "runs": 75,
+                "wickets": 3,
+                "economy": 8.06
+              },
+              "middle": {
+                "overs": 14.0,
+                "runs": 93,
+                "wickets": 7,
+                "economy": 6.64
               }
             }
           },
@@ -18973,10 +18992,10 @@
             },
             "bowling_by_over": {
               "middle": {
-                "overs": 1.5,
-                "runs": 18,
-                "wickets": 0,
-                "economy": 12.0
+                "overs": 3.7,
+                "runs": 30,
+                "wickets": 2,
+                "economy": 8.11
               },
               "powerplay": {
                 "overs": 1.2,
@@ -19032,7 +19051,26 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "powerplay": {
+                "overs": 2.2,
+                "runs": 7,
+                "wickets": 1,
+                "economy": 3.18
+              },
+              "death": {
+                "overs": 2.2,
+                "runs": 11,
+                "wickets": 2,
+                "economy": 5.0
+              },
+              "middle": {
+                "overs": 1.3,
+                "runs": 14,
+                "wickets": 1,
+                "economy": 10.77
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -19081,7 +19119,26 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 4.7,
+                "runs": 24,
+                "wickets": 2,
+                "economy": 5.11
+              },
+              "middle": {
+                "overs": 5.5,
+                "runs": 25,
+                "wickets": 2,
+                "economy": 4.55
+              },
+              "powerplay": {
+                "overs": 2.3,
+                "runs": 36,
+                "wickets": 0,
+                "economy": 15.65
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -19160,7 +19217,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 2.7,
+                "runs": 17,
+                "wickets": 0,
+                "economy": 6.3
+              }
+            }
           },
           "6": {
             "discipline": {
@@ -19355,7 +19419,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 2.7,
+                "runs": 17,
+                "wickets": 0,
+                "economy": 6.3
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -20268,7 +20339,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 3.2,
+                "runs": 25,
+                "wickets": 0,
+                "economy": 7.81
+              }
+            }
           },
           "6": {
             "discipline": {
@@ -20467,7 +20545,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 3.2,
+                "runs": 25,
+                "wickets": 0,
+                "economy": 7.81
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -20547,17 +20632,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
-              "death": {
-                "overs": 3.0,
-                "runs": 37,
-                "wickets": 4,
-                "economy": 12.33
-              },
               "middle": {
-                "overs": 1.2,
+                "overs": 11.3,
+                "runs": 112,
+                "wickets": 2,
+                "economy": 9.91
+              },
+              "powerplay": {
+                "overs": 1.0,
                 "runs": 8,
-                "wickets": 1,
-                "economy": 6.67
+                "wickets": 0,
+                "economy": 8.0
+              },
+              "death": {
+                "overs": 5.2,
+                "runs": 66,
+                "wickets": 6,
+                "economy": 12.69
               }
             }
           },
@@ -20710,7 +20801,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 1.2,
+                "runs": 12,
+                "wickets": 0,
+                "economy": 10.0
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -20762,10 +20860,16 @@
             },
             "bowling_by_over": {
               "middle": {
-                "overs": 1.2,
+                "overs": 7.2,
+                "runs": 61,
+                "wickets": 2,
+                "economy": 8.47
+              },
+              "powerplay": {
+                "overs": 1.0,
                 "runs": 8,
-                "wickets": 1,
-                "economy": 6.67
+                "wickets": 0,
+                "economy": 8.0
               }
             }
           }
@@ -21135,16 +21239,22 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 9.5,
-                "runs": 77,
-                "wickets": 6,
-                "economy": 8.11
+                "overs": 29.2,
+                "runs": 186,
+                "wickets": 18,
+                "economy": 6.37
+              },
+              "middle": {
+                "overs": 18.3,
+                "runs": 108,
+                "wickets": 10,
+                "economy": 5.9
               },
               "powerplay": {
-                "overs": 8.3,
-                "runs": 71,
-                "wickets": 4,
-                "economy": 8.55
+                "overs": 16.5,
+                "runs": 133,
+                "wickets": 7,
+                "economy": 8.06
               }
             }
           },
@@ -21259,7 +21369,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 1.2,
+                "runs": 9,
+                "wickets": 0,
+                "economy": 7.5
+              },
+              "middle": {
+                "overs": 1.2,
+                "runs": 10,
+                "wickets": 1,
+                "economy": 8.33
+              }
+            }
           },
           "15": {
             "discipline": {
@@ -21305,7 +21428,26 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 3.0,
+                "runs": 9,
+                "wickets": 4,
+                "economy": 3.0
+              },
+              "death": {
+                "overs": 4.8,
+                "runs": 16,
+                "wickets": 3,
+                "economy": 3.33
+              },
+              "powerplay": {
+                "overs": 1.3,
+                "runs": 9,
+                "wickets": 0,
+                "economy": 6.92
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -21356,11 +21498,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 7.3,
+                "runs": 43,
+                "wickets": 5,
+                "economy": 5.89
+              },
+              "middle": {
+                "overs": 6.7,
+                "runs": 39,
+                "wickets": 2,
+                "economy": 5.82
+              },
               "powerplay": {
-                "overs": 2.0,
-                "runs": 18,
+                "overs": 3.0,
+                "runs": 40,
                 "wickets": 0,
-                "economy": 9.0
+                "economy": 13.33
               }
             }
           }
@@ -21441,23 +21595,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "middle": {
+                "overs": 13.5,
+                "runs": 117,
+                "wickets": 5,
+                "economy": 8.67
+              },
               "death": {
-                "overs": 4.7,
-                "runs": 45,
-                "wickets": 3,
-                "economy": 9.57
+                "overs": 10.7,
+                "runs": 86,
+                "wickets": 6,
+                "economy": 8.04
               },
               "powerplay": {
-                "overs": 1.8,
-                "runs": 23,
-                "wickets": 0,
-                "economy": 12.78
-              },
-              "middle": {
-                "overs": 2.2,
-                "runs": 36,
-                "wickets": 0,
-                "economy": 16.36
+                "overs": 3.0,
+                "runs": 31,
+                "wickets": 1,
+                "economy": 10.33
               }
             }
           },
@@ -21572,16 +21726,16 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 0.2,
-                "runs": 1,
+                "overs": 1.5,
+                "runs": 12,
                 "wickets": 0,
-                "economy": 5.0
+                "economy": 8.0
               },
               "middle": {
-                "overs": 2.2,
-                "runs": 36,
-                "wickets": 0,
-                "economy": 16.36
+                "overs": 3.2,
+                "runs": 43,
+                "wickets": 2,
+                "economy": 13.44
               }
             }
           },
@@ -21632,7 +21786,26 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 1.3,
+                "runs": 10,
+                "wickets": 1,
+                "economy": 7.69
+              },
+              "middle": {
+                "overs": 1.3,
+                "runs": 6,
+                "wickets": 1,
+                "economy": 4.62
+              },
+              "powerplay": {
+                "overs": 1.2,
+                "runs": 8,
+                "wickets": 1,
+                "economy": 6.67
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -21682,7 +21855,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 6.8,
+                "runs": 55,
+                "wickets": 2,
+                "economy": 8.09
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -22045,16 +22225,22 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 2.0,
-                "runs": 15,
-                "wickets": 2,
-                "economy": 7.5
+                "overs": 10.5,
+                "runs": 94,
+                "wickets": 7,
+                "economy": 8.95
               },
               "middle": {
-                "overs": 1.3,
-                "runs": 8,
-                "wickets": 0,
-                "economy": 6.15
+                "overs": 7.5,
+                "runs": 57,
+                "wickets": 3,
+                "economy": 7.6
+              },
+              "powerplay": {
+                "overs": 2.5,
+                "runs": 6,
+                "wickets": 2,
+                "economy": 2.4
               }
             }
           },
@@ -22214,7 +22400,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 2.3,
+                "runs": 18,
+                "wickets": 0,
+                "economy": 7.83
+              },
+              "middle": {
+                "overs": 1.0,
+                "runs": 2,
+                "wickets": 1,
+                "economy": 2.0
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -22266,11 +22465,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 4.2,
+                "runs": 42,
+                "wickets": 3,
+                "economy": 10.0
+              },
               "middle": {
-                "overs": 1.3,
-                "runs": 8,
-                "wickets": 0,
-                "economy": 6.15
+                "overs": 5.5,
+                "runs": 47,
+                "wickets": 2,
+                "economy": 8.55
+              },
+              "powerplay": {
+                "overs": 2.5,
+                "runs": 6,
+                "wickets": 2,
+                "economy": 2.4
               }
             }
           }
@@ -22356,22 +22567,22 @@
             },
             "bowling_by_over": {
               "powerplay": {
-                "overs": 13.3,
-                "runs": 150,
-                "wickets": 9,
-                "economy": 11.28
-              },
-              "death": {
-                "overs": 2.5,
-                "runs": 19,
-                "wickets": 1,
-                "economy": 7.6
+                "overs": 34.2,
+                "runs": 249,
+                "wickets": 15,
+                "economy": 7.28
               },
               "middle": {
-                "overs": 0.2,
-                "runs": 4,
-                "wickets": 0,
-                "economy": 20.0
+                "overs": 10.0,
+                "runs": 102,
+                "wickets": 4,
+                "economy": 10.2
+              },
+              "death": {
+                "overs": 9.5,
+                "runs": 72,
+                "wickets": 2,
+                "economy": 7.58
               }
             }
           },
@@ -22487,17 +22698,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 1.5,
+                "runs": 16,
+                "wickets": 0,
+                "economy": 10.67
+              },
+              "powerplay": {
+                "overs": 2.0,
+                "runs": 10,
+                "wickets": 2,
+                "economy": 5.0
+              },
               "middle": {
                 "overs": 0.2,
                 "runs": 4,
                 "wickets": 0,
                 "economy": 20.0
-              },
-              "powerplay": {
-                "overs": 0.8,
-                "runs": 4,
-                "wickets": 1,
-                "economy": 5.0
               }
             }
           },
@@ -22548,7 +22765,26 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 3.2,
+                "runs": 24,
+                "wickets": 2,
+                "economy": 7.5
+              },
+              "death": {
+                "overs": 2.0,
+                "runs": 16,
+                "wickets": 0,
+                "economy": 8.0
+              },
+              "powerplay": {
+                "overs": 2.3,
+                "runs": 22,
+                "wickets": 1,
+                "economy": 9.57
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -22598,7 +22834,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "powerplay": {
+                "overs": 10.7,
+                "runs": 46,
+                "wickets": 3,
+                "economy": 4.3
+              },
+              "middle": {
+                "overs": 2.3,
+                "runs": 21,
+                "wickets": 1,
+                "economy": 9.13
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -22681,10 +22930,10 @@
             },
             "bowling_by_over": {
               "middle": {
-                "overs": 1.0,
-                "runs": 10,
-                "wickets": 0,
-                "economy": 10.0
+                "overs": 4.5,
+                "runs": 31,
+                "wickets": 2,
+                "economy": 6.89
               }
             }
           },
@@ -22830,7 +23079,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 2.2,
+                "runs": 10,
+                "wickets": 1,
+                "economy": 4.55
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -22881,7 +23137,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "middle": {
+                "overs": 1.3,
+                "runs": 11,
+                "wickets": 1,
+                "economy": 8.46
+              }
+            }
           }
         },
         "why_not_selected": {
@@ -22963,16 +23226,22 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 7.0,
-                "runs": 79,
-                "wickets": 5,
-                "economy": 11.29
+                "overs": 26.7,
+                "runs": 238,
+                "wickets": 17,
+                "economy": 8.91
+              },
+              "middle": {
+                "overs": 10.0,
+                "runs": 75,
+                "wickets": 6,
+                "economy": 7.5
               },
               "powerplay": {
-                "overs": 6.2,
-                "runs": 64,
+                "overs": 7.3,
+                "runs": 73,
                 "wickets": 4,
-                "economy": 10.32
+                "economy": 10.0
               }
             }
           },
@@ -23136,7 +23405,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 3.3,
+                "runs": 16,
+                "wickets": 3,
+                "economy": 4.85
+              },
+              "middle": {
+                "overs": 2.2,
+                "runs": 6,
+                "wickets": 1,
+                "economy": 2.73
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -23189,11 +23471,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 9.8,
+                "runs": 71,
+                "wickets": 6,
+                "economy": 7.24
+              },
+              "middle": {
+                "overs": 4.3,
+                "runs": 32,
+                "wickets": 3,
+                "economy": 7.44
+              },
               "powerplay": {
-                "overs": 2.3,
-                "runs": 13,
+                "overs": 3.5,
+                "runs": 22,
                 "wickets": 1,
-                "economy": 5.65
+                "economy": 6.29
               }
             }
           }
@@ -23278,22 +23572,22 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 2.8,
-                "runs": 26,
-                "wickets": 1,
-                "economy": 9.29
+                "overs": 9.3,
+                "runs": 83,
+                "wickets": 3,
+                "economy": 8.92
               },
               "powerplay": {
-                "overs": 2.8,
-                "runs": 23,
+                "overs": 9.7,
+                "runs": 101,
                 "wickets": 0,
-                "economy": 8.21
+                "economy": 10.41
               },
               "middle": {
-                "overs": 2.2,
-                "runs": 19,
-                "wickets": 2,
-                "economy": 8.64
+                "overs": 5.7,
+                "runs": 56,
+                "wickets": 4,
+                "economy": 9.82
               }
             }
           },
@@ -23412,6 +23706,12 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 1.0,
+                "runs": 13,
+                "wickets": 0,
+                "economy": 13.0
+              },
               "middle": {
                 "overs": 1.0,
                 "runs": 10,
@@ -23466,7 +23766,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "powerplay": {
+                "overs": 2.0,
+                "runs": 39,
+                "wickets": 0,
+                "economy": 19.5
+              },
+              "middle": {
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 1,
+                "economy": 9.0
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -23517,6 +23830,18 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "powerplay": {
+                "overs": 3.3,
+                "runs": 36,
+                "wickets": 0,
+                "economy": 10.91
+              },
+              "death": {
+                "overs": 1.0,
+                "runs": 3,
+                "wickets": 1,
+                "economy": 3.0
+              },
               "middle": {
                 "overs": 1.0,
                 "runs": 8,
@@ -23601,23 +23926,23 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
-              "death": {
-                "overs": 3.5,
-                "runs": 34,
-                "wickets": 3,
-                "economy": 9.71
-              },
               "powerplay": {
-                "overs": 6.2,
-                "runs": 68,
-                "wickets": 4,
-                "economy": 10.97
+                "overs": 22.0,
+                "runs": 225,
+                "wickets": 10,
+                "economy": 10.23
               },
               "middle": {
-                "overs": 1.2,
-                "runs": 16,
-                "wickets": 0,
-                "economy": 13.33
+                "overs": 11.0,
+                "runs": 79,
+                "wickets": 5,
+                "economy": 7.18
+              },
+              "death": {
+                "overs": 7.7,
+                "runs": 60,
+                "wickets": 5,
+                "economy": 7.79
               }
             }
           },
@@ -23727,17 +24052,17 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "powerplay": {
+                "overs": 2.2,
+                "runs": 29,
+                "wickets": 0,
+                "economy": 13.18
+              },
               "death": {
                 "overs": 1.2,
                 "runs": 18,
                 "wickets": 0,
                 "economy": 15.0
-              },
-              "powerplay": {
-                "overs": 1.2,
-                "runs": 15,
-                "wickets": 0,
-                "economy": 12.5
               }
             }
           },
@@ -23787,7 +24112,20 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "powerplay": {
+                "overs": 4.0,
+                "runs": 45,
+                "wickets": 2,
+                "economy": 11.25
+              },
+              "death": {
+                "overs": 1.0,
+                "runs": 9,
+                "wickets": 0,
+                "economy": 9.0
+              }
+            }
           },
           "20": {
             "discipline": {
@@ -23840,10 +24178,22 @@
             },
             "bowling_by_over": {
               "powerplay": {
-                "overs": 1.0,
-                "runs": 15,
-                "wickets": 0,
-                "economy": 15.0
+                "overs": 6.3,
+                "runs": 57,
+                "wickets": 2,
+                "economy": 9.05
+              },
+              "death": {
+                "overs": 3.2,
+                "runs": 17,
+                "wickets": 2,
+                "economy": 5.31
+              },
+              "middle": {
+                "overs": 4.2,
+                "runs": 13,
+                "wickets": 4,
+                "economy": 3.1
               }
             }
           }
@@ -30132,9 +30482,51 @@
     ],
     "batter_vs_bowler": [
       {
+        "batter_name": "Alim Pinjari",
+        "batter_player_id": 2,
+        "vs_bowlers": [
+          {
+            "bowler_name": "Suyash K",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          }
+        ]
+      },
+      {
         "batter_name": "Ankesh Awsare",
         "batter_player_id": 3,
         "vs_bowlers": [
+          {
+            "bowler_name": "Sandesh Kirde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Om Thakkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 8,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 200.0
+          },
           {
             "bowler_name": "Shubham Polekar",
             "bowler_ch_id": null,
@@ -30148,6 +30540,66 @@
             "strike_rate": 350.0
           },
           {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 5,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 0,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 133.3
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 3,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 5,
+            "strike_rate": 42.9
+          },
+          {
             "bowler_name": "Umakant Rahane",
             "bowler_ch_id": null,
             "matches": 1,
@@ -30158,6 +30610,66 @@
             "dismissals": 1,
             "dot_balls": 3,
             "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Suyash K",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 40.0
+          },
+          {
+            "bowler_name": "Aditya Prakash Shinde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 1,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 10.0
           },
           {
             "bowler_name": "Ramesh Thavare",
@@ -30182,6 +30694,54 @@
             "dismissals": 0,
             "dot_balls": 0,
             "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 5,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 2,
+            "strike_rate": 125.0
           }
         ]
       },
@@ -30190,19 +30750,139 @@
         "batter_player_id": 4,
         "vs_bowlers": [
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 11,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 220.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 5,
-            "balls": 2,
+            "runs": 10,
+            "balls": 4,
             "fours": 1,
-            "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 1,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 2,
             "strike_rate": 250.0
           },
           {
+            "bowler_name": "Dipak Rajput",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 7,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 350.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 6,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 3,
+            "dot_balls": 4,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 120.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 80.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Suyash K",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
             "bowler_name": "Shantanu Patil",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Prashant",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
@@ -30220,39 +30900,159 @@
         "batter_player_id": 5,
         "vs_bowlers": [
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "Vinit Pathak",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 5,
-            "balls": 4,
-            "fours": 1,
-            "sixes": 0,
+            "matches": 4,
+            "runs": 20,
+            "balls": 16,
+            "fours": 3,
+            "sixes": 1,
             "dismissals": 1,
-            "dot_balls": 3,
+            "dot_balls": 10,
             "strike_rate": 125.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Sandesh Kirde",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 1,
-            "balls": 0,
+            "runs": 16,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 177.8
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 9,
+            "balls": 12,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 3,
+            "dot_balls": 10,
+            "strike_rate": 75.0
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 4,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 225.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 8,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 160.0
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 2,
             "fours": 0,
             "sixes": 0,
             "dismissals": 0,
             "dot_balls": 0,
-            "strike_rate": 0
+            "strike_rate": 200.0
           },
           {
-            "bowler_name": "Vinit Pathak",
+            "bowler_name": "Ashish Shukla",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 133.3
+          },
+          {
+            "bowler_name": "Amitesh",
             "bowler_ch_id": null,
             "matches": 2,
-            "runs": 0,
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 75.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
             "balls": 3,
             "fours": 0,
             "sixes": 0,
             "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Om Thakkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
             "dot_balls": 3,
+            "strike_rate": 25.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
             "strike_rate": 0.0
           }
         ]
@@ -30272,6 +31072,42 @@
             "dismissals": 1,
             "dot_balls": 1,
             "strike_rate": 333.3
+          },
+          {
+            "bowler_name": "Ashish Shukla",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 225.0
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 8,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 6,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 7,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 100.0
           },
           {
             "bowler_name": "Umakant Rahane",
@@ -30298,7 +31134,31 @@
             "strike_rate": 200.0
           },
           {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 150.0
+          },
+          {
             "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 40.0
+          },
+          {
+            "bowler_name": "Swapnil Kale",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -30320,6 +31180,42 @@
             "dismissals": 0,
             "dot_balls": 1,
             "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
           }
         ]
       },
@@ -30327,6 +31223,66 @@
         "batter_name": "Dinesh Shinde",
         "batter_player_id": 8,
         "vs_bowlers": [
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 7,
+            "runs": 56,
+            "balls": 31,
+            "fours": 6,
+            "sixes": 3,
+            "dismissals": 2,
+            "dot_balls": 13,
+            "strike_rate": 180.6
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 9,
+            "runs": 49,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 3,
+            "dismissals": 1,
+            "dot_balls": 15,
+            "strike_rate": 144.1
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 45,
+            "balls": 21,
+            "fours": 4,
+            "sixes": 4,
+            "dismissals": 2,
+            "dot_balls": 10,
+            "strike_rate": 214.3
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 32,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 4,
+            "dismissals": 0,
+            "dot_balls": 7,
+            "strike_rate": 213.3
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 8,
+            "runs": 32,
+            "balls": 26,
+            "fours": 4,
+            "sixes": 2,
+            "dismissals": 3,
+            "dot_balls": 16,
+            "strike_rate": 123.1
+          },
           {
             "bowler_name": "Sachin Jadhav(SR)",
             "bowler_ch_id": null,
@@ -30340,28 +31296,16 @@
             "strike_rate": 420.0
           },
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Roshan Deshmukh",
             "bowler_ch_id": null,
-            "matches": 3,
-            "runs": 15,
-            "balls": 8,
-            "fours": 0,
+            "matches": 2,
+            "runs": 18,
+            "balls": 6,
+            "fours": 1,
             "sixes": 1,
             "dismissals": 0,
             "dot_balls": 2,
-            "strike_rate": 187.5
-          },
-          {
-            "bowler_name": "Sanju Biswas",
-            "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 14,
-            "balls": 6,
-            "fours": 2,
-            "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 1,
-            "strike_rate": 233.3
+            "strike_rate": 300.0
           },
           {
             "bowler_name": "Rohit Pawar",
@@ -30388,52 +31332,76 @@
             "strike_rate": 366.7
           },
           {
-            "bowler_name": "Roshan Deshmukh",
+            "bowler_name": "Sagar ( avdhut )Nimbargi",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 10,
-            "balls": 2,
+            "runs": 7,
+            "balls": 4,
             "fours": 0,
             "sixes": 1,
             "dismissals": 0,
-            "dot_balls": 1,
-            "strike_rate": 500.0
+            "dot_balls": 2,
+            "strike_rate": 175.0
           },
           {
-            "bowler_name": "Shubham Polekar",
+            "bowler_name": "Ankur Mukherjee",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 4,
-            "balls": 2,
-            "fours": 1,
-            "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 200.0
-          },
-          {
-            "bowler_name": "Pranav Taralkar",
-            "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 4,
-            "balls": 4,
+            "runs": 5,
+            "balls": 3,
             "fours": 1,
             "sixes": 0,
             "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "Aditya Prakash Shinde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
             "dot_balls": 3,
             "strike_rate": 100.0
           },
           {
+            "bowler_name": "Shubham Polekar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 2,
+            "strike_rate": 133.3
+          },
+          {
             "bowler_name": "Chetan Bhopatkar",
             "bowler_ch_id": null,
-            "matches": 1,
+            "matches": 3,
             "runs": 3,
-            "balls": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 75.0
+          },
+          {
+            "bowler_name": "Sandeep Kedari",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 4,
             "fours": 0,
             "sixes": 0,
             "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 300.0
+            "dot_balls": 2,
+            "strike_rate": 50.0
           },
           {
             "bowler_name": "Pramod Patil",
@@ -30448,6 +31416,30 @@
             "strike_rate": 100.0
           },
           {
+            "bowler_name": "Viraj",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 20.0
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 1,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 4,
+            "strike_rate": 20.0
+          },
+          {
             "bowler_name": "Prashant Ugale",
             "bowler_ch_id": null,
             "matches": 1,
@@ -30458,6 +31450,66 @@
             "dismissals": 0,
             "dot_balls": 2,
             "strike_rate": 33.3
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 0,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 4,
+            "strike_rate": 0.0
           }
         ]
       },
@@ -30466,28 +31518,76 @@
         "batter_player_id": 1,
         "vs_bowlers": [
           {
-            "bowler_name": "Sanju Biswas",
-            "bowler_ch_id": null,
-            "matches": 4,
-            "runs": 32,
-            "balls": 12,
-            "fours": 3,
-            "sixes": 2,
-            "dismissals": 2,
-            "dot_balls": 3,
-            "strike_rate": 266.7
-          },
-          {
             "bowler_name": "Kundan Gautam",
             "bowler_ch_id": null,
+            "matches": 9,
+            "runs": 114,
+            "balls": 49,
+            "fours": 5,
+            "sixes": 10,
+            "dismissals": 4,
+            "dot_balls": 12,
+            "strike_rate": 232.7
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 72,
+            "balls": 33,
+            "fours": 4,
+            "sixes": 8,
+            "dismissals": 2,
+            "dot_balls": 15,
+            "strike_rate": 218.2
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 10,
+            "runs": 66,
+            "balls": 34,
+            "fours": 3,
+            "sixes": 6,
+            "dismissals": 3,
+            "dot_balls": 12,
+            "strike_rate": 194.1
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 8,
+            "runs": 65,
+            "balls": 25,
+            "fours": 6,
+            "sixes": 5,
+            "dismissals": 3,
+            "dot_balls": 4,
+            "strike_rate": 260.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 6,
+            "runs": 36,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 189.5
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
             "matches": 3,
-            "runs": 24,
+            "runs": 34,
             "balls": 11,
             "fours": 2,
-            "sixes": 1,
-            "dismissals": 3,
+            "sixes": 4,
+            "dismissals": 2,
             "dot_balls": 3,
-            "strike_rate": 218.2
+            "strike_rate": 309.1
           },
           {
             "bowler_name": "Vikram Mohite",
@@ -30502,28 +31602,64 @@
             "strike_rate": 383.3
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Om Thakkar",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 13,
-            "balls": 5,
-            "fours": 1,
-            "sixes": 1,
-            "dismissals": 0,
-            "dot_balls": 1,
-            "strike_rate": 260.0
-          },
-          {
-            "bowler_name": "Vinit Pathak",
-            "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 12,
+            "runs": 23,
             "balls": 7,
-            "fours": 2,
-            "sixes": 0,
+            "fours": 1,
+            "sixes": 3,
             "dismissals": 0,
             "dot_balls": 2,
-            "strike_rate": 171.4
+            "strike_rate": 328.6
+          },
+          {
+            "bowler_name": "Viraj",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 17,
+            "balls": 6,
+            "fours": 4,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 283.3
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 15,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 214.3
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 13,
+            "balls": 9,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 144.4
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 13,
+            "balls": 8,
+            "fours": 0,
+            "sixes": 2,
+            "dismissals": 2,
+            "dot_balls": 5,
+            "strike_rate": 162.5
           },
           {
             "bowler_name": "Rakesh K S",
@@ -30538,16 +31674,16 @@
             "strike_rate": 300.0
           },
           {
-            "bowler_name": "Sudipto Biswas",
+            "bowler_name": "Suraj kadam-2",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 10,
-            "balls": 3,
-            "fours": 1,
-            "sixes": 1,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
             "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 333.3
+            "dot_balls": 6,
+            "strike_rate": 111.1
           },
           {
             "bowler_name": "Raju Marathe",
@@ -30560,6 +31696,54 @@
             "dismissals": 0,
             "dot_balls": 0,
             "strike_rate": 500.0
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 10,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 200.0
+          },
+          {
+            "bowler_name": "Sandesh Kirde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 7,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 128.6
+          },
+          {
+            "bowler_name": "Sandeep Kedari",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 140.0
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 7,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 7,
+            "strike_rate": 70.0
           },
           {
             "bowler_name": "Mahesh Dhumal",
@@ -30620,6 +31804,42 @@
             "dismissals": 0,
             "dot_balls": 0,
             "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 3,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 75.0
+          },
+          {
+            "bowler_name": "Shashi Shinde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
           }
         ]
       },
@@ -30627,6 +31847,54 @@
         "batter_name": "Gajanan Bharade",
         "batter_player_id": 9,
         "vs_bowlers": [
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 11,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 183.3
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 6,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 150.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 166.7
+          },
           {
             "bowler_name": "Rohit Hode",
             "bowler_ch_id": null,
@@ -30638,6 +31906,66 @@
             "dismissals": 2,
             "dot_balls": 3,
             "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 4,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 80.0
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 4,
+            "strike_rate": 80.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 1,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 25.0
           }
         ]
       },
@@ -30646,28 +31974,124 @@
         "batter_player_id": 10,
         "vs_bowlers": [
           {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 6,
+            "runs": 33,
+            "balls": 20,
+            "fours": 3,
+            "sixes": 3,
+            "dismissals": 1,
+            "dot_balls": 11,
+            "strike_rate": 165.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 17,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 5,
+            "strike_rate": 130.8
+          },
+          {
             "bowler_name": "Sanju Biswas",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 3,
-            "balls": 2,
-            "fours": 0,
+            "matches": 7,
+            "runs": 15,
+            "balls": 18,
+            "fours": 2,
             "sixes": 0,
+            "dismissals": 3,
+            "dot_balls": 10,
+            "strike_rate": 83.3
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 15,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 1,
             "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 150.0
+            "dot_balls": 2,
+            "strike_rate": 250.0
           },
           {
             "bowler_name": "Sudipto Biswas",
             "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 13,
+            "balls": 8,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 2,
+            "dot_balls": 5,
+            "strike_rate": 162.5
+          },
+          {
+            "bowler_name": "Sandesh Kirde",
+            "bowler_ch_id": null,
             "matches": 1,
-            "runs": 1,
+            "runs": 10,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 250.0
+          },
+          {
+            "bowler_name": "Om Thakkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 6,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 600.0
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
             "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 250.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 4,
             "fours": 0,
             "sixes": 0,
             "dismissals": 1,
             "dot_balls": 2,
             "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
           },
           {
             "bowler_name": "Prashant Ugale",
@@ -30682,7 +32106,7 @@
             "strike_rate": 25.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Kuldip Pawar",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -30694,14 +32118,26 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Suyash K",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
             "balls": 1,
             "fours": 0,
             "sixes": 0,
-            "dismissals": 0,
+            "dismissals": 1,
             "dot_balls": 1,
             "strike_rate": 0.0
           }
@@ -30711,6 +32147,90 @@
         "batter_name": "Jalindar Agre",
         "batter_player_id": 11,
         "vs_bowlers": [
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 12,
+            "runs": 59,
+            "balls": 38,
+            "fours": 6,
+            "sixes": 3,
+            "dismissals": 5,
+            "dot_balls": 14,
+            "strike_rate": 155.3
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 9,
+            "runs": 54,
+            "balls": 32,
+            "fours": 9,
+            "sixes": 2,
+            "dismissals": 1,
+            "dot_balls": 15,
+            "strike_rate": 168.8
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 7,
+            "runs": 37,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 3,
+            "dismissals": 3,
+            "dot_balls": 7,
+            "strike_rate": 217.6
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 25,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 2,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 357.1
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 21,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 2,
+            "dismissals": 2,
+            "dot_balls": 5,
+            "strike_rate": 210.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 16,
+            "balls": 8,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 200.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 13,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 2,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 216.7
+          },
           {
             "bowler_name": "Prashant Kunte",
             "bowler_ch_id": null,
@@ -30722,6 +32242,18 @@
             "dismissals": 0,
             "dot_balls": 0,
             "strike_rate": 550.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 8,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 160.0
           },
           {
             "bowler_name": "Vishal Karle",
@@ -30748,43 +32280,31 @@
             "strike_rate": 133.3
           },
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "Prashant",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 4,
-            "balls": 3,
+            "balls": 2,
             "fours": 1,
             "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 2,
-            "strike_rate": 133.3
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 200.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Suraj kadam-2",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 4,
-            "balls": 1,
-            "fours": 1,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
             "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 400.0
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 66.7
           },
           {
             "bowler_name": "Ramesh Thavare",
-            "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 1,
-            "balls": 1,
-            "fours": 0,
-            "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 100.0
-          },
-          {
-            "bowler_name": "Kundan Gautam",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -30802,6 +32322,102 @@
         "batter_player_id": 12,
         "vs_bowlers": [
           {
+            "bowler_name": "Sandesh Kirde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 22,
+            "balls": 9,
+            "fours": 4,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 244.4
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 18,
+            "balls": 16,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 6,
+            "strike_rate": 112.5
+          },
+          {
+            "bowler_name": "Sagar ( avdhut )Nimbargi",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 15,
+            "balls": 5,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 14,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 4,
+            "strike_rate": 140.0
+          },
+          {
+            "bowler_name": "Sandeep Kedari",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 14,
+            "balls": 9,
+            "fours": 3,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 155.6
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 12,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 5,
+            "strike_rate": 150.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 12,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 171.4
+          },
+          {
+            "bowler_name": "Swapnil Kale",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 10,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 7,
+            "strike_rate": 111.1
+          },
+          {
             "bowler_name": "Shubham Polekar",
             "bowler_ch_id": null,
             "matches": 1,
@@ -30812,6 +32428,42 @@
             "dismissals": 0,
             "dot_balls": 2,
             "strike_rate": 180.0
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 8,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 266.7
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 8,
+            "balls": 16,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 7,
+            "balls": 13,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 53.8
           },
           {
             "bowler_name": "Vishal Karle",
@@ -30826,16 +32478,52 @@
             "strike_rate": 120.0
           },
           {
-            "bowler_name": "Vinit Pathak",
+            "bowler_name": "Pranav Taralkar",
             "bowler_ch_id": null,
-            "matches": 1,
+            "matches": 2,
             "runs": 6,
-            "balls": 3,
+            "balls": 4,
             "fours": 1,
             "sixes": 0,
-            "dismissals": 1,
+            "dismissals": 0,
             "dot_balls": 1,
-            "strike_rate": 200.0
+            "strike_rate": 150.0
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 250.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 5,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 125.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 4,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 7,
+            "strike_rate": 40.0
           },
           {
             "bowler_name": "Mahesh Dhumal",
@@ -30850,6 +32538,18 @@
             "strike_rate": 133.3
           },
           {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 40.0
+          },
+          {
             "bowler_name": "Prashant Ugale",
             "bowler_ch_id": null,
             "matches": 1,
@@ -30862,7 +32562,7 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Om Thakkar",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -30892,16 +32592,112 @@
         "batter_player_id": 13,
         "vs_bowlers": [
           {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 8,
+            "runs": 38,
+            "balls": 25,
+            "fours": 5,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 10,
+            "strike_rate": 152.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 7,
+            "runs": 31,
+            "balls": 19,
+            "fours": 5,
+            "sixes": 0,
+            "dismissals": 3,
+            "dot_balls": 7,
+            "strike_rate": 163.2
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 29,
+            "balls": 17,
+            "fours": 2,
+            "sixes": 3,
+            "dismissals": 2,
+            "dot_balls": 10,
+            "strike_rate": 170.6
+          },
+          {
             "bowler_name": "Pranav Taralkar",
             "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 22,
+            "balls": 19,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 7,
+            "strike_rate": 115.8
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 20,
+            "balls": 17,
+            "fours": 4,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 117.6
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 18,
+            "balls": 8,
+            "fours": 3,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 225.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
             "matches": 1,
-            "runs": 7,
+            "runs": 13,
             "balls": 5,
-            "fours": 0,
+            "fours": 3,
             "sixes": 0,
             "dismissals": 0,
             "dot_balls": 1,
-            "strike_rate": 140.0
+            "strike_rate": 260.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 8,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 160.0
+          },
+          {
+            "bowler_name": "Kuldip Pawar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 7,
+            "balls": 4,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 175.0
           },
           {
             "bowler_name": "arvind rana CTT",
@@ -30916,16 +32712,40 @@
             "strike_rate": 200.0
           },
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Shubham Polekar",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
-            "balls": 1,
+            "balls": 4,
             "fours": 0,
             "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 100.0
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 25.0
           },
           {
             "bowler_name": "Rohit Hode",
@@ -30964,27 +32784,15 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Kundan Gautam",
-            "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 1,
-            "balls": 2,
-            "fours": 0,
-            "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 50.0
-          },
-          {
-            "bowler_name": "Shubham Polekar",
+            "bowler_name": "Pratik Mody",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
-            "balls": 1,
+            "balls": 5,
             "fours": 0,
             "sixes": 0,
             "dismissals": 1,
-            "dot_balls": 1,
+            "dot_balls": 5,
             "strike_rate": 0.0
           }
         ]
@@ -30993,6 +32801,78 @@
         "batter_name": "Rakesh Ankush",
         "batter_player_id": 14,
         "vs_bowlers": [
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 7,
+            "runs": 48,
+            "balls": 25,
+            "fours": 7,
+            "sixes": 2,
+            "dismissals": 3,
+            "dot_balls": 10,
+            "strike_rate": 192.0
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 25,
+            "balls": 13,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 192.3
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 21,
+            "balls": 11,
+            "fours": 3,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 190.9
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 19,
+            "balls": 10,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 190.0
+          },
+          {
+            "bowler_name": "Vinit Pathak",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 18,
+            "balls": 11,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 163.6
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 18,
+            "balls": 9,
+            "fours": 4,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 200.0
+          },
           {
             "bowler_name": "arvind rana CTT",
             "bowler_ch_id": null,
@@ -31006,16 +32886,28 @@
             "strike_rate": 266.7
           },
           {
-            "bowler_name": "Vinit Pathak",
+            "bowler_name": "Roshan Deshmukh",
             "bowler_ch_id": null,
             "matches": 2,
-            "runs": 9,
-            "balls": 5,
+            "runs": 15,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 8,
+            "strike_rate": 107.1
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 6,
+            "runs": 8,
+            "balls": 15,
             "fours": 1,
             "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 3,
-            "strike_rate": 180.0
+            "dismissals": 4,
+            "dot_balls": 10,
+            "strike_rate": 53.3
           },
           {
             "bowler_name": "amol bhongale",
@@ -31042,6 +32934,18 @@
             "strike_rate": 175.0
           },
           {
+            "bowler_name": "Vishal Karle",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 6,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 120.0
+          },
+          {
             "bowler_name": "Mahesh Dhumal",
             "bowler_ch_id": null,
             "matches": 1,
@@ -31054,19 +32958,43 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Sagar ( avdhut )Nimbargi",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 4,
-            "balls": 2,
+            "balls": 4,
             "fours": 1,
             "sixes": 0,
             "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 200.0
+            "dot_balls": 3,
+            "strike_rate": 100.0
           },
           {
-            "bowler_name": "Vishal Karle",
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 400.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Suraj kadam-2",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -31078,16 +33006,16 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "VIJAY SUTAR",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 1,
+            "runs": 0,
             "balls": 1,
             "fours": 0,
             "sixes": 0,
-            "dismissals": 1,
+            "dismissals": 0,
             "dot_balls": 1,
-            "strike_rate": 100.0
+            "strike_rate": 0.0
           },
           {
             "bowler_name": "Umakant Rahane",
@@ -31112,6 +33040,18 @@
             "dismissals": 0,
             "dot_balls": 1,
             "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Ashish Shukla",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 0.0
           }
         ]
       },
@@ -31120,64 +33060,112 @@
         "batter_player_id": 15,
         "vs_bowlers": [
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Vinit Pathak",
             "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 19,
-            "balls": 7,
-            "fours": 2,
-            "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 1,
-            "strike_rate": 271.4
+            "matches": 5,
+            "runs": 58,
+            "balls": 17,
+            "fours": 3,
+            "sixes": 7,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 341.2
           },
           {
             "bowler_name": "Pranav Taralkar",
             "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 14,
-            "balls": 4,
-            "fours": 2,
-            "sixes": 1,
-            "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 350.0
+            "matches": 8,
+            "runs": 42,
+            "balls": 24,
+            "fours": 4,
+            "sixes": 3,
+            "dismissals": 3,
+            "dot_balls": 9,
+            "strike_rate": 175.0
           },
           {
             "bowler_name": "Sanju Biswas",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 7,
-            "balls": 2,
-            "fours": 0,
-            "sixes": 1,
+            "matches": 9,
+            "runs": 36,
+            "balls": 24,
+            "fours": 2,
+            "sixes": 2,
+            "dismissals": 5,
+            "dot_balls": 10,
+            "strike_rate": 150.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 6,
+            "runs": 26,
+            "balls": 15,
+            "fours": 3,
+            "sixes": 0,
             "dismissals": 0,
-            "dot_balls": 0,
+            "dot_balls": 5,
+            "strike_rate": 173.3
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 20,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 2,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 333.3
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 19,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 3,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 316.7
+          },
+          {
+            "bowler_name": "Shubham Polekar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 14,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 2,
+            "dismissals": 1,
+            "dot_balls": 1,
             "strike_rate": 350.0
           },
           {
             "bowler_name": "Sudipto Biswas",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 2,
-            "balls": 1,
+            "matches": 3,
+            "runs": 8,
+            "balls": 4,
             "fours": 0,
-            "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
+            "sixes": 1,
+            "dismissals": 2,
+            "dot_balls": 2,
             "strike_rate": 200.0
           },
           {
-            "bowler_name": "Vinit Pathak",
+            "bowler_name": "Amitesh",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 1,
-            "balls": 2,
-            "fours": 0,
+            "matches": 2,
+            "runs": 4,
+            "balls": 3,
+            "fours": 1,
             "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 1,
-            "strike_rate": 50.0
+            "dismissals": 2,
+            "dot_balls": 2,
+            "strike_rate": 133.3
           },
           {
             "bowler_name": "Prashant Kunte",
@@ -31194,20 +33182,146 @@
         ]
       },
       {
+        "batter_name": "Sujit Patil",
+        "batter_player_id": 21,
+        "vs_bowlers": [
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          }
+        ]
+      },
+      {
         "batter_name": "Sunil Bhande",
         "batter_player_id": 16,
         "vs_bowlers": [
           {
-            "bowler_name": "Chetan Bhopatkar",
+            "bowler_name": "Sandeep Kedari",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 8,
-            "balls": 2,
-            "fours": 0,
+            "runs": 30,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 3,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 500.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 19,
+            "balls": 9,
+            "fours": 1,
+            "sixes": 2,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 211.1
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 13,
+            "balls": 4,
+            "fours": 3,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 325.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 13,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 260.0
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 12,
+            "balls": 4,
+            "fours": 1,
             "sixes": 1,
             "dismissals": 0,
             "dot_balls": 0,
-            "strike_rate": 400.0
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 12,
+            "balls": 7,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 171.4
+          },
+          {
+            "bowler_name": "Dipak Rajput",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 225.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 8,
+            "balls": 16,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 12,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Sandesh Kirde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 2,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 250.0
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 5,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 100.0
           },
           {
             "bowler_name": "Vinit Pathak",
@@ -31222,7 +33336,43 @@
             "strike_rate": 75.0
           },
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Suyash K",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 2,
+            "balls": 4,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 2,
+            "dot_balls": 2,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 1,
+            "balls": 10,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 10.0
+          },
+          {
+            "bowler_name": "Om Thakkar",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 1,
@@ -31234,15 +33384,27 @@
             "strike_rate": 100.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Viraj",
             "bowler_ch_id": null,
-            "matches": 2,
+            "matches": 1,
             "runs": 0,
-            "balls": 5,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 4,
             "fours": 0,
             "sixes": 0,
             "dismissals": 1,
-            "dot_balls": 5,
+            "dot_balls": 4,
             "strike_rate": 0.0
           }
         ]
@@ -31252,40 +33414,172 @@
         "batter_player_id": 17,
         "vs_bowlers": [
           {
-            "bowler_name": "Kundan Gautam",
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 20,
+            "balls": 12,
+            "fours": 1,
+            "sixes": 2,
+            "dismissals": 3,
+            "dot_balls": 6,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
             "bowler_ch_id": null,
             "matches": 1,
-            "runs": 10,
-            "balls": 4,
+            "runs": 18,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 3,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 360.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 16,
+            "balls": 17,
             "fours": 2,
-            "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 250.0
+            "sixes": 1,
+            "dismissals": 3,
+            "dot_balls": 12,
+            "strike_rate": 94.1
           },
           {
             "bowler_name": "Sanju Biswas",
             "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 4,
-            "balls": 1,
-            "fours": 1,
+            "matches": 3,
+            "runs": 12,
+            "balls": 11,
+            "fours": 2,
             "sixes": 0,
             "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 400.0
+            "dot_balls": 6,
+            "strike_rate": 109.1
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 12,
+            "balls": 9,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 133.3
           },
           {
             "bowler_name": "Vinit Pathak",
             "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 1,
-            "balls": 2,
+            "matches": 3,
+            "runs": 9,
+            "balls": 7,
             "fours": 0,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 128.6
+          },
+          {
+            "bowler_name": "Suyash K",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 9,
+            "balls": 3,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Sandeep Kedari",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 200.0
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 120.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 6,
+            "balls": 4,
+            "fours": 1,
             "sixes": 0,
             "dismissals": 1,
             "dot_balls": 1,
-            "strike_rate": 50.0
+            "strike_rate": 150.0
+          },
+          {
+            "bowler_name": "Om Thakkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 6,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 5,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 200.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 2,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
           },
           {
             "bowler_name": "Rohit Pawar",
@@ -31324,7 +33618,43 @@
             "strike_rate": 0.0
           },
           {
-            "bowler_name": "Pranav Taralkar",
+            "bowler_name": "Sagar ( avdhut )Nimbargi",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Kuldip Pawar",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
@@ -31342,6 +33672,102 @@
         "batter_player_id": 18,
         "vs_bowlers": [
           {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 8,
+            "runs": 41,
+            "balls": 30,
+            "fours": 4,
+            "sixes": 3,
+            "dismissals": 3,
+            "dot_balls": 19,
+            "strike_rate": 136.7
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 6,
+            "runs": 34,
+            "balls": 18,
+            "fours": 2,
+            "sixes": 3,
+            "dismissals": 1,
+            "dot_balls": 8,
+            "strike_rate": 188.9
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 31,
+            "balls": 18,
+            "fours": 6,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 5,
+            "strike_rate": 172.2
+          },
+          {
+            "bowler_name": "VIJAY SUTAR",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 18,
+            "balls": 6,
+            "fours": 3,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 300.0
+          },
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 10,
+            "balls": 6,
+            "fours": 2,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 3,
+            "strike_rate": 166.7
+          },
+          {
+            "bowler_name": "Prashant",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 10,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 1,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 200.0
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 5,
+            "runs": 9,
+            "balls": 15,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 60.0
+          },
+          {
+            "bowler_name": "Shashi Shinde",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 7,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 140.0
+          },
+          {
             "bowler_name": "Sachin Jadhav(SR)",
             "bowler_ch_id": null,
             "matches": 1,
@@ -31354,28 +33780,16 @@
             "strike_rate": 600.0
           },
           {
-            "bowler_name": "Sanju Biswas",
+            "bowler_name": "Vinit Pathak",
             "bowler_ch_id": null,
-            "matches": 2,
-            "runs": 4,
-            "balls": 6,
-            "fours": 0,
-            "sixes": 0,
-            "dismissals": 1,
-            "dot_balls": 5,
-            "strike_rate": 66.7
-          },
-          {
-            "bowler_name": "Kundan Gautam",
-            "bowler_ch_id": null,
-            "matches": 1,
-            "runs": 4,
-            "balls": 1,
+            "matches": 3,
+            "runs": 5,
+            "balls": 5,
             "fours": 1,
             "sixes": 0,
-            "dismissals": 0,
-            "dot_balls": 0,
-            "strike_rate": 400.0
+            "dismissals": 2,
+            "dot_balls": 3,
+            "strike_rate": 100.0
           },
           {
             "bowler_name": "Dr. NILESH KOLAPKAR",
@@ -31392,14 +33806,200 @@
           {
             "bowler_name": "Vishal Karle",
             "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 2,
+            "balls": 3,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 66.7
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 2,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 3,
+            "dot_balls": 4,
+            "strike_rate": 33.3
+          },
+          {
+            "bowler_name": "Pravin Jaybhaye",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Nilesh Ware",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 100.0
+          },
+          {
+            "bowler_name": "Chetan Bhopatkar",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 1,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 1,
+            "strike_rate": 50.0
+          },
+          {
+            "bowler_name": "Suraj kadam-2",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Shubham Polekar",
+            "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
             "balls": 1,
             "fours": 0,
             "sixes": 0,
-            "dismissals": 0,
+            "dismissals": 1,
             "dot_balls": 1,
             "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Pratik Mody",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 2,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 0.0
+          },
+          {
+            "bowler_name": "Prashant Ugale",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 0,
+            "balls": 1,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 1,
+            "strike_rate": 0.0
+          }
+        ]
+      },
+      {
+        "batter_name": "Trambak Bhujbal",
+        "batter_player_id": 19,
+        "vs_bowlers": [
+          {
+            "bowler_name": "Sanju Biswas",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 31,
+            "balls": 14,
+            "fours": 3,
+            "sixes": 2,
+            "dismissals": 1,
+            "dot_balls": 3,
+            "strike_rate": 221.4
+          },
+          {
+            "bowler_name": "Kundan Gautam",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 31,
+            "balls": 18,
+            "fours": 5,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 4,
+            "strike_rate": 172.2
+          },
+          {
+            "bowler_name": "Ankur Mukherjee",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 24,
+            "balls": 7,
+            "fours": 3,
+            "sixes": 2,
+            "dismissals": 0,
+            "dot_balls": 2,
+            "strike_rate": 342.9
+          },
+          {
+            "bowler_name": "Sudipto Biswas",
+            "bowler_ch_id": null,
+            "matches": 3,
+            "runs": 21,
+            "balls": 15,
+            "fours": 2,
+            "sixes": 1,
+            "dismissals": 0,
+            "dot_balls": 6,
+            "strike_rate": 140.0
+          },
+          {
+            "bowler_name": "Pranav Taralkar",
+            "bowler_ch_id": null,
+            "matches": 4,
+            "runs": 7,
+            "balls": 15,
+            "fours": 0,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 9,
+            "strike_rate": 46.7
+          },
+          {
+            "bowler_name": "Amitesh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 6,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 1,
+            "dot_balls": 2,
+            "strike_rate": 120.0
+          },
+          {
+            "bowler_name": "Swapnil Kale",
+            "bowler_ch_id": null,
+            "matches": 1,
+            "runs": 4,
+            "balls": 1,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 0,
+            "strike_rate": 400.0
           },
           {
             "bowler_name": "Vinit Pathak",
@@ -31414,7 +34014,7 @@
             "strike_rate": 0.0
           },
           {
-            "bowler_name": "Prashant Ugale",
+            "bowler_name": "Roshan Deshmukh",
             "bowler_ch_id": null,
             "matches": 1,
             "runs": 0,
@@ -31424,6 +34024,24 @@
             "dismissals": 1,
             "dot_balls": 1,
             "strike_rate": 0.0
+          }
+        ]
+      },
+      {
+        "batter_name": "Tushar Jagdale",
+        "batter_player_id": 20,
+        "vs_bowlers": [
+          {
+            "bowler_name": "Roshan Deshmukh",
+            "bowler_ch_id": null,
+            "matches": 2,
+            "runs": 4,
+            "balls": 5,
+            "fours": 1,
+            "sixes": 0,
+            "dismissals": 0,
+            "dot_balls": 4,
+            "strike_rate": 80.0
           }
         ]
       }
