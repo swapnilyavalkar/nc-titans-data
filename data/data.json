@@ -18553,7 +18553,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 1.3,
+                "runs": 15,
+                "wickets": 1,
+                "economy": 11.54
+              }
+            }
           },
           "6": {
             "discipline": {
@@ -18603,7 +18610,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 1.3,
+                "runs": 15,
+                "wickets": 1,
+                "economy": 11.54
+              }
+            }
           },
           "10": {
             "discipline": {
@@ -18834,10 +18848,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 1.2,
-                "runs": 21,
-                "wickets": 0,
-                "economy": 17.5
+                "overs": 3.3,
+                "runs": 43,
+                "wickets": 2,
+                "economy": 13.03
               },
               "middle": {
                 "overs": 1.5,
@@ -18903,10 +18917,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 1.2,
-                "runs": 21,
-                "wickets": 0,
-                "economy": 17.5
+                "overs": 3.3,
+                "runs": 43,
+                "wickets": 2,
+                "economy": 13.03
               }
             }
           },
@@ -19951,10 +19965,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 1.3,
-                "runs": 18,
-                "wickets": 1,
-                "economy": 13.85
+                "overs": 2.5,
+                "runs": 29,
+                "wickets": 2,
+                "economy": 11.6
               }
             }
           },
@@ -20010,7 +20024,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 1.2,
+                "runs": 11,
+                "wickets": 1,
+                "economy": 9.17
+              }
+            }
           },
           "10": {
             "discipline": {
@@ -20526,6 +20547,12 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 3.0,
+                "runs": 37,
+                "wickets": 4,
+                "economy": 12.33
+              },
               "middle": {
                 "overs": 1.2,
                 "runs": 8,
@@ -20581,7 +20608,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 3.0,
+                "runs": 37,
+                "wickets": 4,
+                "economy": 12.33
+              }
+            }
           },
           "10": {
             "discipline": {
@@ -21101,16 +21135,16 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 3.0,
-                "runs": 18,
-                "wickets": 3,
-                "economy": 6.0
+                "overs": 9.5,
+                "runs": 77,
+                "wickets": 6,
+                "economy": 8.11
               },
               "powerplay": {
-                "overs": 3.0,
-                "runs": 23,
-                "wickets": 1,
-                "economy": 7.67
+                "overs": 8.3,
+                "runs": 71,
+                "wickets": 4,
+                "economy": 8.55
               }
             }
           },
@@ -21165,16 +21199,16 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 3.0,
-                "runs": 18,
-                "wickets": 3,
-                "economy": 6.0
+                "overs": 9.5,
+                "runs": 77,
+                "wickets": 6,
+                "economy": 8.11
               },
               "powerplay": {
-                "overs": 1.0,
-                "runs": 5,
-                "wickets": 1,
-                "economy": 5.0
+                "overs": 6.3,
+                "runs": 53,
+                "wickets": 4,
+                "economy": 8.41
               }
             }
           },
@@ -21408,16 +21442,16 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 2.8,
-                "runs": 26,
-                "wickets": 1,
-                "economy": 9.29
+                "overs": 4.7,
+                "runs": 45,
+                "wickets": 3,
+                "economy": 9.57
               },
               "powerplay": {
-                "overs": 0.8,
-                "runs": 17,
+                "overs": 1.8,
+                "runs": 23,
                 "wickets": 0,
-                "economy": 21.25
+                "economy": 12.78
               },
               "middle": {
                 "overs": 2.2,
@@ -21476,16 +21510,16 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 2.7,
-                "runs": 25,
-                "wickets": 1,
-                "economy": 9.26
+                "overs": 4.5,
+                "runs": 44,
+                "wickets": 3,
+                "economy": 9.78
               },
               "powerplay": {
-                "overs": 0.8,
-                "runs": 17,
+                "overs": 1.8,
+                "runs": 23,
                 "wickets": 0,
-                "economy": 21.25
+                "economy": 12.78
               }
             }
           },
@@ -22010,6 +22044,12 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
+              "death": {
+                "overs": 2.0,
+                "runs": 15,
+                "wickets": 2,
+                "economy": 7.5
+              },
               "middle": {
                 "overs": 1.3,
                 "runs": 8,
@@ -22069,7 +22109,14 @@
               "team_bat_avg": 5.72,
               "team_bowl_econ": 10.51
             },
-            "bowling_by_over": null
+            "bowling_by_over": {
+              "death": {
+                "overs": 2.0,
+                "runs": 15,
+                "wickets": 2,
+                "economy": 7.5
+              }
+            }
           },
           "10": {
             "discipline": {
@@ -22309,10 +22356,10 @@
             },
             "bowling_by_over": {
               "powerplay": {
-                "overs": 5.2,
-                "runs": 52,
-                "wickets": 4,
-                "economy": 10.0
+                "overs": 13.3,
+                "runs": 150,
+                "wickets": 9,
+                "economy": 11.28
               },
               "death": {
                 "overs": 2.5,
@@ -22380,10 +22427,10 @@
             },
             "bowling_by_over": {
               "powerplay": {
-                "overs": 4.3,
-                "runs": 48,
-                "wickets": 3,
-                "economy": 11.16
+                "overs": 12.5,
+                "runs": 146,
+                "wickets": 8,
+                "economy": 11.68
               },
               "death": {
                 "overs": 2.5,
@@ -22915,17 +22962,17 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
-              "powerplay": {
-                "overs": 5.2,
-                "runs": 52,
-                "wickets": 4,
-                "economy": 10.0
-              },
               "death": {
-                "overs": 2.5,
-                "runs": 20,
-                "wickets": 3,
-                "economy": 8.0
+                "overs": 7.0,
+                "runs": 79,
+                "wickets": 5,
+                "economy": 11.29
+              },
+              "powerplay": {
+                "overs": 6.2,
+                "runs": 64,
+                "wickets": 4,
+                "economy": 10.32
               }
             }
           },
@@ -22981,17 +23028,17 @@
               "team_bowl_econ": 10.51
             },
             "bowling_by_over": {
-              "powerplay": {
-                "overs": 1.8,
-                "runs": 26,
-                "wickets": 3,
-                "economy": 14.44
-              },
               "death": {
-                "overs": 2.5,
-                "runs": 20,
+                "overs": 7.0,
+                "runs": 79,
+                "wickets": 5,
+                "economy": 11.29
+              },
+              "powerplay": {
+                "overs": 2.8,
+                "runs": 38,
                 "wickets": 3,
-                "economy": 8.0
+                "economy": 13.57
               }
             }
           },
@@ -23231,10 +23278,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 0.8,
-                "runs": 9,
-                "wickets": 0,
-                "economy": 11.25
+                "overs": 2.8,
+                "runs": 26,
+                "wickets": 1,
+                "economy": 9.29
               },
               "powerplay": {
                 "overs": 2.8,
@@ -23302,10 +23349,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 0.8,
-                "runs": 9,
-                "wickets": 0,
-                "economy": 11.25
+                "overs": 2.8,
+                "runs": 26,
+                "wickets": 1,
+                "economy": 9.29
               },
               "powerplay": {
                 "overs": 2.0,
@@ -23555,10 +23602,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 1.3,
-                "runs": 18,
-                "wickets": 1,
-                "economy": 13.85
+                "overs": 3.5,
+                "runs": 34,
+                "wickets": 3,
+                "economy": 9.71
               },
               "powerplay": {
                 "overs": 6.2,
@@ -23620,10 +23667,10 @@
             },
             "bowling_by_over": {
               "death": {
-                "overs": 0.2,
-                "runs": 0,
-                "wickets": 1,
-                "economy": 0.0
+                "overs": 2.3,
+                "runs": 16,
+                "wickets": 3,
+                "economy": 6.96
               },
               "powerplay": {
                 "overs": 2.8,
