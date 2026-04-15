@@ -88,13 +88,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0,
+        "batting_sr": 0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -404,13 +404,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -1315,13 +1315,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -2169,13 +2169,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -2740,13 +2740,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": 0,
+        "bowling_economy": 0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -3452,13 +3452,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0,
+        "batting_sr": 0,
+        "bowling_avg": 0,
+        "bowling_economy": 0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -3646,13 +3646,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -4576,13 +4576,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -5506,13 +5506,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -6313,13 +6313,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": 0,
+        "bowling_economy": 0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -7139,13 +7139,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -8069,13 +8069,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -8999,13 +8999,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": 0,
+        "bowling_economy": 0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -9910,13 +9910,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -10755,13 +10755,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -11609,13 +11609,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -12482,13 +12482,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -13365,13 +13365,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -14295,13 +14295,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": -0.0,
+        "bowling_economy": -0.0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -15225,13 +15225,13 @@
         }
       },
       "wow": {
-        "batting_avg": null,
-        "batting_sr": null,
-        "bowling_avg": null,
-        "bowling_economy": null,
-        "wickets_total": null,
-        "runs_total": null,
-        "form_score": null
+        "batting_avg": 0.0,
+        "batting_sr": 0.0,
+        "bowling_avg": 0,
+        "bowling_economy": 0,
+        "wickets_total": 0,
+        "runs_total": 0,
+        "form_score": 0.0
       },
       "wow_trend": {
         "weekends": [
@@ -18193,7 +18193,7 @@
     "15",
     "20"
   ],
-  "generated_at": "2026-04-14",
+  "generated_at": "2026-04-15",
   "config": {
     "bat_avg_benchmark": 20.0,
     "bat_sr_benchmark": 120.0,
